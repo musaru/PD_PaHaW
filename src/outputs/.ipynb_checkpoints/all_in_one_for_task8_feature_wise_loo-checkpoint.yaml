@@ -1,0 +1,7749 @@
+Number_of_stroke:
+  param:
+    C: 145.67890450544328
+    coef0: 139.8284291955421
+    degree: 3
+    gamma: 215.81871313490353
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+Renyi_Entropy(displacement,2):
+  param:
+    C: 677.4442907621814
+    coef0: 1.0162073234964026
+    degree: 1
+    gamma: 980.9601402105458
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+Renyi_Entropy(velocity,2):
+  param:
+    C: 800.2299548643424
+    coef0: 729.9738546491387
+    degree: 2
+    gamma: 513.1635838068047
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+Renyi_Entropy(x,2):
+  param:
+    C: 115.19903176167543
+    coef0: 181.97619905325757
+    degree: 3
+    gamma: 981.9954331512013
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+Renyi_Entropy(y,2):
+  param:
+    C: 0.4747818764511891
+    coef0: 824.2647323938847
+    degree: 2
+    gamma: 526.9014860946602
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+SNRce(displacement):
+  param:
+    C: 236.91356706768286
+    coef0: 179.35844012826223
+    degree: 2
+    gamma: 26.78403587660272
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+SNRce(velocity):
+  param:
+    C: 355.99131719097295
+    coef0: 590.1485635267628
+    degree: 1
+    gamma: 836.4696177852456
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+SNRce(x):
+  param:
+    C: 658.9096906047548
+    coef0: 934.6526845219175
+    degree: 2
+    gamma: 825.5703251875717
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+SNRce(y):
+  param:
+    C: 2.823797086944488
+    coef0: 78.38277661693792
+    degree: 1
+    gamma: 198.98416586602505
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+SNRtke_r(displacement,1):
+  param:
+    C: 0.8955512994341532
+    coef0: 823.8619316839707
+    degree: 2
+    gamma: 646.0149555446669
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+SNRtke_r(velocity,1):
+  param:
+    C: 610.3198762110147
+    coef0: 982.3585142971726
+    degree: 2
+    gamma: 458.36487775961723
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+SNRtke_r(x,1):
+  param:
+    C: 526.0473110645491
+    coef0: 948.5595200298494
+    degree: 1
+    gamma: 824.0076482709053
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+SNRtke_r(y,1):
+  param:
+    C: 969.6946943065037
+    coef0: 371.5395717679383
+    degree: 3
+    gamma: 933.037196453492
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+Shannon_Entropy(displacement):
+  param:
+    C: 876.3432131186267
+    coef0: 193.93483254301202
+    degree: 4
+    gamma: 429.14408473289626
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+Shannon_Entropy(velocity):
+  param:
+    C: 938.1189367593341
+    coef0: 308.6412803373286
+    degree: 5
+    gamma: 628.7506348687346
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+Shannon_Entropy(x):
+  param:
+    C: 806.8437493012103
+    coef0: 65.82758601470577
+    degree: 3
+    gamma: 1.8625927789183019
+    kernel: rbf
+    random_state: 42
+  score: 0.6133333333333333
+Shannon_Entropy(y):
+  param:
+    C: 2.0290888376049283
+    coef0: 299.81860149652
+    degree: 3
+    gamma: 195.4532607107638
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+altitude_1st_percentile:
+  param:
+    C: 0.5463940218663469
+    coef0: 794.0497533565157
+    degree: 1
+    gamma: 944.6827873951347
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+altitude_99th_percentile:
+  param:
+    C: 353.38956494787385
+    coef0: 813.0978071345711
+    degree: 5
+    gamma: 3.9472272713160734
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+altitude_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 277.79430797882816
+    coef0: 750.4900855088853
+    degree: 5
+    gamma: 802.6251300108881
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+altitude_kurtosis:
+  param:
+    C: 0.20279278170477816
+    coef0: 582.8068473932346
+    degree: 2
+    gamma: 879.7820751774682
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+altitude_max:
+  param:
+    C: 304.0008654749296
+    coef0: 814.6501783898266
+    degree: 2
+    gamma: 329.0023039429897
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+altitude_mean:
+  param:
+    C: 89.08347046096641
+    coef0: 185.1499195611893
+    degree: 5
+    gamma: 726.4139692296985
+    kernel: rbf
+    random_state: 42
+  score: 0.6133333333333333
+altitude_median:
+  param:
+    C: 241.29319377454402
+    coef0: 458.6734857957839
+    degree: 1
+    gamma: 179.9131895020921
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+altitude_min:
+  param:
+    C: 282.6759801253074
+    coef0: 470.4357359910006
+    degree: 2
+    gamma: 394.7074749812068
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6
+altitude_skewness:
+  param:
+    C: 365.5926960033988
+    coef0: 932.3931128830257
+    degree: 3
+    gamma: 262.91226173957875
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+altitude_standard_deviation:
+  param:
+    C: 197.92988256536145
+    coef0: 60.93322114183912
+    degree: 4
+    gamma: 246.46662260414377
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+altitude_variance:
+  param:
+    C: 0.5053400377304911
+    coef0: 111.13709984405276
+    degree: 4
+    gamma: 847.8552475705343
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+angle_data_with_100_mean:
+  param:
+    C: 964.6634712109906
+    coef0: 61.067139106631174
+    degree: 5
+    gamma: 653.6512621531992
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+angle_data_with_100_median:
+  param:
+    C: 768.9750409704682
+    coef0: 604.7884566034336
+    degree: 4
+    gamma: 766.3468458006066
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5466666666666666
+angle_data_with_100_standard_deviation:
+  param:
+    C: 513.2609214903678
+    coef0: 333.3648733673756
+    degree: 5
+    gamma: 768.8322056780245
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+angle_data_with_100_variance:
+  param:
+    C: 834.2923964217961
+    coef0: 464.89839042354316
+    degree: 3
+    gamma: 946.5481883975973
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+angle_data_with_10_mean:
+  param:
+    C: 459.2977526544667
+    coef0: 725.4150001034598
+    degree: 4
+    gamma: 857.6296306200176
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+angle_data_with_10_median:
+  param:
+    C: 588.0592926531486
+    coef0: 34.9381576914725
+    degree: 5
+    gamma: 779.8075311511999
+    kernel: rbf
+    random_state: 42
+  score: 0.5333333333333333
+angle_data_with_10_standard_deviation:
+  param:
+    C: 523.8842540232479
+    coef0: 244.8721225164732
+    degree: 1
+    gamma: 643.9800314047352
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+angle_data_with_10_variance:
+  param:
+    C: 931.7237517935424
+    coef0: 852.9332641525215
+    degree: 3
+    gamma: 368.00396963973196
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+angle_data_with_1_99th_percentile:
+  param:
+    C: 455.58002336429695
+    coef0: 653.8497044914805
+    degree: 5
+    gamma: 619.9771642406371
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5066666666666667
+angle_data_with_1_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 507.41703512698507
+    coef0: 603.2639750749015
+    degree: 2
+    gamma: 63.818136911519815
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5066666666666667
+angle_data_with_1_mean:
+  param:
+    C: 580.8437318082882
+    coef0: 511.03779148105434
+    degree: 3
+    gamma: 172.53980013519123
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8533333333333334
+angle_data_with_1_standard_deviation:
+  param:
+    C: 760.3706270700956
+    coef0: 860.8364800573637
+    degree: 2
+    gamma: 283.98061813665976
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+angle_data_with_1_variance:
+  param:
+    C: 838.2197419259597
+    coef0: 177.12189425837744
+    degree: 3
+    gamma: 60.92056997388198
+    kernel: sigmoid
+    random_state: 42
+  score: 0.88
+angle_data_with_50_mean:
+  param:
+    C: 947.2596534015506
+    coef0: 107.37064923737225
+    degree: 5
+    gamma: 928.8788617632672
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+angle_data_with_50_median:
+  param:
+    C: 210.3311295867276
+    coef0: 722.9253871936282
+    degree: 5
+    gamma: 592.1777374245105
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5066666666666667
+angle_data_with_50_standard_deviation:
+  param:
+    C: 301.2317327771225
+    coef0: 480.58071417991295
+    degree: 2
+    gamma: 977.2747353176603
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+angle_data_with_50_variance:
+  param:
+    C: 893.7876814672022
+    coef0: 495.8294307599467
+    degree: 3
+    gamma: 360.212221671765
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+azimuth_1st_percentile:
+  param:
+    C: 277.73586942697494
+    coef0: 990.956497536154
+    degree: 2
+    gamma: 553.9429608320431
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+azimuth_99th_percentile:
+  param:
+    C: 832.1646856531261
+    coef0: 351.33625276639634
+    degree: 2
+    gamma: 573.3361329274896
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+azimuth_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 841.4267308575234
+    coef0: 185.37769555657286
+    degree: 3
+    gamma: 822.5423443046299
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+azimuth_kurtosis:
+  param:
+    C: 195.22465657179313
+    coef0: 999.9741983915682
+    degree: 2
+    gamma: 754.0451151174583
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+azimuth_max:
+  param:
+    C: 30.225646319582097
+    coef0: 947.1754510296221
+    degree: 3
+    gamma: 335.3503182862679
+    kernel: rbf
+    random_state: 42
+  score: 0.6133333333333333
+azimuth_mean:
+  param:
+    C: 335.5766989960089
+    coef0: 218.12285021297367
+    degree: 3
+    gamma: 990.925280704714
+    kernel: rbf
+    random_state: 42
+  score: 0.6
+azimuth_median:
+  param:
+    C: 0.7139266202698593
+    coef0: 62.244346781966314
+    degree: 5
+    gamma: 585.8498588476617
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8266666666666667
+azimuth_min:
+  param:
+    C: 994.9796259454852
+    coef0: 963.2378926404567
+    degree: 3
+    gamma: 879.8959959176583
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+azimuth_skewness:
+  param:
+    C: 961.4688800448284
+    coef0: 456.458143315207
+    degree: 3
+    gamma: 839.8243915796876
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+azimuth_standard_deviation:
+  param:
+    C: 63.59482735945616
+    coef0: 779.4575864616274
+    degree: 4
+    gamma: 501.10801126106537
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+azimuth_variance:
+  param:
+    C: 895.7529898436885
+    coef0: 399.992300303553
+    degree: 5
+    gamma: 706.7079126096556
+    kernel: rbf
+    random_state: 42
+  score: 0.5866666666666667
+conventional_energy(displacement):
+  param:
+    C: 235.47262264382195
+    coef0: 33.31166795228202
+    degree: 5
+    gamma: 995.9480448326331
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+conventional_energy(velocity):
+  param:
+    C: 0.2714261728187619
+    coef0: 840.8910834655045
+    degree: 1
+    gamma: 628.0863688326374
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+conventional_energy(x):
+  param:
+    C: 390.83591817955556
+    coef0: 33.89846062725459
+    degree: 5
+    gamma: 386.67274921776493
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+conventional_energy(y):
+  param:
+    C: 257.52012686368374
+    coef0: 222.447843871134
+    degree: 3
+    gamma: 16.780243386110207
+    kernel: rbf
+    random_state: 42
+  score: 0.72
+displacement_99th_percentile:
+  param:
+    C: 250.3876802199639
+    coef0: 691.3999112464682
+    degree: 1
+    gamma: 841.3221681891558
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+displacement_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 120.04098327561343
+    coef0: 565.5902184725751
+    degree: 2
+    gamma: 686.2495521121546
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+displacement_kurtosis:
+  param:
+    C: 604.0021943587712
+    coef0: 293.47126097000796
+    degree: 1
+    gamma: 238.10458651231204
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+displacement_max:
+  param:
+    C: 171.8017808013738
+    coef0: 173.76485601972686
+    degree: 1
+    gamma: 823.7192642214965
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+displacement_mean:
+  param:
+    C: 0.5818199359711032
+    coef0: 907.1978022644522
+    degree: 4
+    gamma: 701.1587427729814
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8666666666666667
+displacement_median:
+  param:
+    C: 165.7617354230316
+    coef0: 402.5017179233525
+    degree: 5
+    gamma: 645.4740735862358
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+displacement_skewness:
+  param:
+    C: 757.1404670481544
+    coef0: 69.46626509551683
+    degree: 3
+    gamma: 898.9012501156194
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+displacement_standard_deviation:
+  param:
+    C: 642.9847767847855
+    coef0: 711.4735170545457
+    degree: 1
+    gamma: 852.8992651048123
+    kernel: rbf
+    random_state: 42
+  score: 0.7333333333333333
+displacement_variance:
+  param:
+    C: 768.0923739190123
+    coef0: 824.5532049725066
+    degree: 4
+    gamma: 679.4643484389926
+    kernel: rbf
+    random_state: 42
+  score: 0.7333333333333333
+first_altitude_1st_percentile:
+  param:
+    C: 358.5171805249163
+    coef0: 680.1686536624527
+    degree: 3
+    gamma: 789.0923650194363
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+first_altitude_99th_percentile:
+  param:
+    C: 803.3788845015029
+    coef0: 319.49216691169636
+    degree: 3
+    gamma: 45.726426109900906
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+first_altitude_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 868.695377311874
+    coef0: 32.96753214000705
+    degree: 1
+    gamma: 164.78128228468552
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+first_altitude_kurtosis:
+  param:
+    C: 731.8137018565413
+    coef0: 66.9974333333979
+    degree: 4
+    gamma: 942.0712786450347
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+first_altitude_max:
+  param:
+    C: 908.4961869291484
+    coef0: 281.5068042889194
+    degree: 3
+    gamma: 723.9594721067323
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+first_altitude_mean:
+  param:
+    C: 140.8320602780738
+    coef0: 96.62461423658651
+    degree: 2
+    gamma: 950.7736830516092
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+first_altitude_median:
+  param:
+    C: 98.59272657241974
+    coef0: 478.97623977995767
+    degree: 1
+    gamma: 519.9242012525618
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+first_altitude_min:
+  param:
+    C: 34.025495709823986
+    coef0: 746.6889473488839
+    degree: 5
+    gamma: 880.193886544203
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+first_altitude_skewness:
+  param:
+    C: 0.2772752860061283
+    coef0: 286.73648578117684
+    degree: 1
+    gamma: 926.2811717251157
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+first_altitude_standard_deviation:
+  param:
+    C: 998.2149703386526
+    coef0: 179.97742124910954
+    degree: 4
+    gamma: 32.11780815751715
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+first_altitude_variance:
+  param:
+    C: 815.2323509817032
+    coef0: 313.0297188228871
+    degree: 3
+    gamma: 88.71693384528388
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+first_azimuth_1st_percentile:
+  param:
+    C: 831.4954977090516
+    coef0: 496.5036781660377
+    degree: 2
+    gamma: 6.108214106737607
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+first_azimuth_99th_percentile:
+  param:
+    C: 73.6854283042109
+    coef0: 83.59218360612948
+    degree: 2
+    gamma: 180.8102131881735
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+first_azimuth_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 934.6560973638768
+    coef0: 523.2900106405641
+    degree: 2
+    gamma: 321.27789406988705
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+first_azimuth_kurtosis:
+  param:
+    C: 428.7126964267044
+    coef0: 220.59564025483238
+    degree: 5
+    gamma: 812.0748370487222
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+first_azimuth_max:
+  param:
+    C: 113.52493147637466
+    coef0: 37.52869482354359
+    degree: 4
+    gamma: 938.5121058061717
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+first_azimuth_mean:
+  param:
+    C: 652.9572171027152
+    coef0: 356.57756974083884
+    degree: 4
+    gamma: 201.84085669084794
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+first_azimuth_median:
+  param:
+    C: 147.6956307164869
+    coef0: 45.33100700968908
+    degree: 4
+    gamma: 94.54692237556652
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+first_azimuth_min:
+  param:
+    C: 0.3979190046378773
+    coef0: 21.980347705632674
+    degree: 3
+    gamma: 901.5955793258016
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+first_azimuth_skewness:
+  param:
+    C: 932.9124024609472
+    coef0: 48.571326814728394
+    degree: 2
+    gamma: 439.01184258205694
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+first_azimuth_standard_deviation:
+  param:
+    C: 981.6628818791573
+    coef0: 128.69217050910837
+    degree: 2
+    gamma: 879.3619952963116
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+first_azimuth_variance:
+  param:
+    C: 614.6893266290793
+    coef0: 33.29235303959045
+    degree: 3
+    gamma: 918.5043784959732
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+first_displacement_99th_percentile:
+  param:
+    C: 735.6525608061471
+    coef0: 414.65966958048966
+    degree: 1
+    gamma: 564.4039150396819
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+first_displacement_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 214.52434177694073
+    coef0: 306.0927755722702
+    degree: 1
+    gamma: 941.3281737841628
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+first_displacement_kurtosis:
+  param:
+    C: 881.5372793286876
+    coef0: 45.740439193735014
+    degree: 3
+    gamma: 989.194809618524
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+first_displacement_max:
+  param:
+    C: 194.6204086601281
+    coef0: 99.03893189671501
+    degree: 2
+    gamma: 824.0556466751598
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+first_displacement_mean:
+  param:
+    C: 777.368133940343
+    coef0: 961.7925900405654
+    degree: 2
+    gamma: 480.1188777090049
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+first_displacement_median:
+  param:
+    C: 795.9332516812931
+    coef0: 250.72648495277653
+    degree: 1
+    gamma: 868.9258612467946
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+first_displacement_skewness:
+  param:
+    C: 358.0671616215126
+    coef0: 20.10083316351827
+    degree: 5
+    gamma: 999.9958682851591
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+first_displacement_standard_deviation:
+  param:
+    C: 0.2720800543384314
+    coef0: 407.94225924791135
+    degree: 2
+    gamma: 731.6260727282324
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+first_displacement_variance:
+  param:
+    C: 302.9358519931282
+    coef0: 45.31790772073677
+    degree: 2
+    gamma: 344.063934234651
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+first_pressure_1st_percentile:
+  param:
+    C: 53.47853307519523
+    coef0: 843.9423812162588
+    degree: 4
+    gamma: 211.5696987231854
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5066666666666667
+first_pressure_99th_percentile:
+  param:
+    C: 961.9203309294921
+    coef0: 244.6950675217195
+    degree: 1
+    gamma: 619.2270886413494
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+first_pressure_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 0.4721654083952618
+    coef0: 781.7600829692011
+    degree: 1
+    gamma: 197.03371959979734
+    kernel: sigmoid
+    random_state: 42
+  score: 0.92
+first_pressure_kurtosis:
+  param:
+    C: 37.87001217021085
+    coef0: 645.9354402885684
+    degree: 2
+    gamma: 316.41534218379445
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+first_pressure_max:
+  param:
+    C: 0.996521403268021
+    coef0: 286.59024226486656
+    degree: 2
+    gamma: 906.7871573024084
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+first_pressure_mean:
+  param:
+    C: 345.83100603824084
+    coef0: 543.7395958861694
+    degree: 1
+    gamma: 900.183516704975
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+first_pressure_median:
+  param:
+    C: 867.8765108689742
+    coef0: 954.7792126693312
+    degree: 3
+    gamma: 125.33266363944576
+    kernel: rbf
+    random_state: 42
+  score: 0.5866666666666667
+first_pressure_min:
+  param:
+    C: 291.48198325767936
+    coef0: 248.4662397418743
+    degree: 5
+    gamma: 790.7163915835201
+    kernel: rbf
+    random_state: 42
+  score: 0.5066666666666667
+first_pressure_skewness:
+  param:
+    C: 494.03437607731126
+    coef0: 286.1055738380589
+    degree: 5
+    gamma: 793.7831210945045
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+first_pressure_standard_deviation:
+  param:
+    C: 270.8588396766112
+    coef0: 129.72424492954562
+    degree: 3
+    gamma: 993.7812440271289
+    kernel: rbf
+    random_state: 42
+  score: 0.56
+first_pressure_variance:
+  param:
+    C: 0.9089224746142137
+    coef0: 283.03712229104184
+    degree: 2
+    gamma: 887.6307146177004
+    kernel: rbf
+    random_state: 42
+  score: 0.6
+first_velocity_99th_percentile:
+  param:
+    C: 962.234086340409
+    coef0: 320.38026228329596
+    degree: 5
+    gamma: 731.0699268749826
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+first_velocity_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 509.9300959394698
+    coef0: 495.3606799720656
+    degree: 1
+    gamma: 468.91205505569695
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+first_velocity_kurtosis:
+  param:
+    C: 0.9386849474394428
+    coef0: 845.1089931510978
+    degree: 1
+    gamma: 218.11691803352582
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8933333333333333
+first_velocity_max:
+  param:
+    C: 813.4828056188325
+    coef0: 418.02325374090515
+    degree: 4
+    gamma: 551.0418484146442
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+first_velocity_mean:
+  param:
+    C: 375.69675954071926
+    coef0: 896.7243760120622
+    degree: 3
+    gamma: 414.49245961407166
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+first_velocity_median:
+  param:
+    C: 125.00140410440206
+    coef0: 35.53457844846689
+    degree: 1
+    gamma: 437.24232757698485
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+first_velocity_min:
+  param:
+    C: 696.880938064511
+    coef0: 505.70604126258786
+    degree: 4
+    gamma: 345.54147644296455
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5066666666666667
+first_velocity_skewness:
+  param:
+    C: 350.2776253586138
+    coef0: 523.97836786287
+    degree: 4
+    gamma: 901.5293560144382
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+first_velocity_standard_deviation:
+  param:
+    C: 979.1766851278203
+    coef0: 162.28454446591206
+    degree: 1
+    gamma: 962.5973749782501
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+first_velocity_variance:
+  param:
+    C: 295.321713599236
+    coef0: 28.34524523602698
+    degree: 5
+    gamma: 967.6080548577117
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+first_x_1st_percentile:
+  param:
+    C: 829.2976125617715
+    coef0: 248.54396507134385
+    degree: 1
+    gamma: 364.7898866434991
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+first_x_99th_percentile:
+  param:
+    C: 126.17191630812962
+    coef0: 194.5684639237445
+    degree: 3
+    gamma: 323.73796786583273
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+first_x_displacement_99th_percentile:
+  param:
+    C: 233.35810588571147
+    coef0: 3.6928458620804285
+    degree: 1
+    gamma: 830.978319425499
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+first_x_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 878.5337073542232
+    coef0: 723.4595788511493
+    degree: 1
+    gamma: 241.3631008343865
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+first_x_displacement_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 893.2669610358597
+    coef0: 4.452929073252676
+    degree: 3
+    gamma: 914.3398163847628
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+first_x_displacement_kurtosis:
+  param:
+    C: 944.3334719453123
+    coef0: 335.83752089070305
+    degree: 3
+    gamma: 180.0331373533932
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+first_x_displacement_max:
+  param:
+    C: 763.8849378811835
+    coef0: 590.4961100156492
+    degree: 3
+    gamma: 37.17257444818344
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+first_x_displacement_mean:
+  param:
+    C: 240.29551356081677
+    coef0: 508.6653963596072
+    degree: 2
+    gamma: 385.8673787639991
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+first_x_displacement_median:
+  param:
+    C: 0.22294791126708446
+    coef0: 447.66604035701147
+    degree: 3
+    gamma: 873.0854070322617
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+first_x_displacement_no_abs_1st_percentile:
+  param:
+    C: 784.1858256468524
+    coef0: 566.5705000967943
+    degree: 1
+    gamma: 576.5037809330827
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+first_x_displacement_no_abs_99th_percentile:
+  param:
+    C: 266.6260730067964
+    coef0: 204.95603276513276
+    degree: 4
+    gamma: 862.5678246508232
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+first_x_displacement_no_abs_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 378.5119455443581
+    coef0: 75.62748873915632
+    degree: 1
+    gamma: 361.27228359181254
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+first_x_displacement_no_abs_kurtosis:
+  param:
+    C: 644.482537261727
+    coef0: 296.72158233670154
+    degree: 2
+    gamma: 160.64952398016743
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+first_x_displacement_no_abs_max:
+  param:
+    C: 841.4503881640204
+    coef0: 698.8876960834385
+    degree: 2
+    gamma: 820.1617411690723
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+first_x_displacement_no_abs_mean:
+  param:
+    C: 200.3825821462546
+    coef0: 188.43046853196142
+    degree: 1
+    gamma: 355.56068939238264
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+first_x_displacement_no_abs_median:
+  param:
+    C: 931.0520711106793
+    coef0: 111.95995961900582
+    degree: 2
+    gamma: 19.784782709524293
+    kernel: rbf
+    random_state: 42
+  score: 0.52
+first_x_displacement_no_abs_min:
+  param:
+    C: 394.2467643458992
+    coef0: 135.14783534362672
+    degree: 4
+    gamma: 0.03147710508105561
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+first_x_displacement_no_abs_skewness:
+  param:
+    C: 445.96557235842306
+    coef0: 27.175082998944205
+    degree: 5
+    gamma: 739.9031985759724
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+first_x_displacement_no_abs_standard_deviation:
+  param:
+    C: 333.66358667846225
+    coef0: 210.01676043633773
+    degree: 4
+    gamma: 363.1493109379584
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+first_x_displacement_no_abs_variance:
+  param:
+    C: 922.002061759917
+    coef0: 317.9391725567861
+    degree: 1
+    gamma: 607.2124305997652
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+first_x_displacement_skewness:
+  param:
+    C: 951.6626232858572
+    coef0: 999.2378722205019
+    degree: 4
+    gamma: 977.4375292342636
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+first_x_displacement_standard_deviation:
+  param:
+    C: 559.0587128878877
+    coef0: 596.5648818794728
+    degree: 3
+    gamma: 905.3361634132079
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+first_x_displacement_variance:
+  param:
+    C: 130.83389426255883
+    coef0: 149.19192119459134
+    degree: 3
+    gamma: 848.6248309470767
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8133333333333334
+first_x_kurtosis:
+  param:
+    C: 983.1458601260142
+    coef0: 530.1350383893096
+    degree: 5
+    gamma: 307.5127782858926
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+first_x_max:
+  param:
+    C: 560.0544587443402
+    coef0: 331.1789478746268
+    degree: 3
+    gamma: 578.0229637425647
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+first_x_mean:
+  param:
+    C: 574.959891510251
+    coef0: 160.27487781660201
+    degree: 3
+    gamma: 270.43882277378606
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+first_x_median:
+  param:
+    C: 0.5398507533111001
+    coef0: 527.3953807841945
+    degree: 2
+    gamma: 726.0347699559788
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+first_x_min:
+  param:
+    C: 571.6195943639999
+    coef0: 526.9255908189435
+    degree: 3
+    gamma: 781.0515904940479
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+first_x_skewness:
+  param:
+    C: 422.3223456261046
+    coef0: 365.03001380306307
+    degree: 5
+    gamma: 541.160984108276
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+first_x_standard_deviation:
+  param:
+    C: 334.8729130663608
+    coef0: 783.573196491732
+    degree: 3
+    gamma: 999.5501289458118
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+first_x_variance:
+  param:
+    C: 600.8132987911811
+    coef0: 525.7063328521367
+    degree: 5
+    gamma: 618.9993436156808
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+first_x_velocity_99th_percentile:
+  param:
+    C: 254.0866530519319
+    coef0: 77.34204538039995
+    degree: 3
+    gamma: 939.9291024256127
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+first_x_velocity_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 162.64267456822688
+    coef0: 77.82534681964414
+    degree: 2
+    gamma: 948.8542574308726
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+first_x_velocity_kurtosis:
+  param:
+    C: 651.4481718185407
+    coef0: 642.5301781833903
+    degree: 1
+    gamma: 281.7042534816368
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+first_x_velocity_max:
+  param:
+    C: 967.8852362941982
+    coef0: 249.80087185438694
+    degree: 1
+    gamma: 833.1189425843248
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+first_x_velocity_mean:
+  param:
+    C: 95.91607315028857
+    coef0: 18.216002327694497
+    degree: 2
+    gamma: 278.5869575197532
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+first_x_velocity_median:
+  param:
+    C: 248.0537550734635
+    coef0: 473.5001856197659
+    degree: 5
+    gamma: 492.355449839827
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+first_x_velocity_min:
+  param:
+    C: 167.77203638306912
+    coef0: 828.7780233963389
+    degree: 5
+    gamma: 189.98235681660327
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5066666666666667
+first_x_velocity_no_abs_1st_percentile:
+  param:
+    C: 0.9400466571265644
+    coef0: 443.86533596213496
+    degree: 3
+    gamma: 954.261439691246
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+first_x_velocity_no_abs_99th_percentile:
+  param:
+    C: 553.0469014388377
+    coef0: 263.3293355787663
+    degree: 5
+    gamma: 802.9142385146754
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+first_x_velocity_no_abs_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 877.1553789374767
+    coef0: 158.03001795827115
+    degree: 4
+    gamma: 852.8314285083925
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+first_x_velocity_no_abs_kurtosis:
+  param:
+    C: 248.88586816265698
+    coef0: 716.0950621126541
+    degree: 5
+    gamma: 280.7145784629048
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8933333333333333
+first_x_velocity_no_abs_max:
+  param:
+    C: 438.5024775279146
+    coef0: 190.67493581402783
+    degree: 1
+    gamma: 0.1325673642855918
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+first_x_velocity_no_abs_mean:
+  param:
+    C: 625.2671016788673
+    coef0: 473.7605456396419
+    degree: 4
+    gamma: 981.0884899475773
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+first_x_velocity_no_abs_median:
+  param:
+    C: 418.24190413940056
+    coef0: 703.6471737187182
+    degree: 2
+    gamma: 29.49036136611365
+    kernel: rbf
+    random_state: 42
+  score: 0.52
+first_x_velocity_no_abs_min:
+  param:
+    C: 414.51343362063574
+    coef0: 10.412504357234695
+    degree: 2
+    gamma: 766.9207398219527
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+first_x_velocity_no_abs_skewness:
+  param:
+    C: 724.9437915811254
+    coef0: 214.52383077295997
+    degree: 4
+    gamma: 450.5830679667699
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8533333333333334
+first_x_velocity_no_abs_standard_deviation:
+  param:
+    C: 0.9941778188365819
+    coef0: 495.57223442439243
+    degree: 4
+    gamma: 467.97766063056986
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+first_x_velocity_no_abs_variance:
+  param:
+    C: 135.47901183531428
+    coef0: 714.505755242255
+    degree: 5
+    gamma: 999.8283787946864
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+first_x_velocity_skewness:
+  param:
+    C: 476.97134228684655
+    coef0: 201.67102744116028
+    degree: 5
+    gamma: 517.9755629432453
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+first_x_velocity_standard_deviation:
+  param:
+    C: 768.800604931407
+    coef0: 74.35564048457047
+    degree: 2
+    gamma: 689.6937284180184
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+first_x_velocity_variance:
+  param:
+    C: 780.8135422280671
+    coef0: 388.60259277177727
+    degree: 4
+    gamma: 706.8100173959604
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+first_y_1st_percentile:
+  param:
+    C: 802.0160443914617
+    coef0: 34.876835850474514
+    degree: 2
+    gamma: 575.0754799143299
+    kernel: sigmoid
+    random_state: 42
+  score: 0.84
+first_y_99th_percentile:
+  param:
+    C: 0.16274922423714244
+    coef0: 673.5260254197536
+    degree: 5
+    gamma: 15.238115841225238
+    kernel: rbf
+    random_state: 42
+  score: 0.7733333333333333
+first_y_displacement_99th_percentile:
+  param:
+    C: 932.6594730627281
+    coef0: 196.58126838568228
+    degree: 2
+    gamma: 330.76061819312287
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+first_y_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 857.1068590060996
+    coef0: 204.9628488401354
+    degree: 1
+    gamma: 605.4643637680317
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+first_y_displacement_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 951.4077012896313
+    coef0: 728.9908749999631
+    degree: 5
+    gamma: 268.4317559363497
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+first_y_displacement_kurtosis:
+  param:
+    C: 411.30264639591616
+    coef0: 141.70555524792812
+    degree: 5
+    gamma: 814.5198452270506
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+first_y_displacement_max:
+  param:
+    C: 46.49502521963595
+    coef0: 290.27119370906337
+    degree: 2
+    gamma: 603.8514960741741
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+first_y_displacement_mean:
+  param:
+    C: 266.5075078244443
+    coef0: 965.134300960852
+    degree: 1
+    gamma: 383.3189039210356
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8266666666666667
+first_y_displacement_median:
+  param:
+    C: 606.3813788686649
+    coef0: 950.5590840306611
+    degree: 2
+    gamma: 409.70006173593544
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+first_y_displacement_no_abs_1st_percentile:
+  param:
+    C: 240.43419471491342
+    coef0: 100.24557462963139
+    degree: 4
+    gamma: 288.5474393268892
+    kernel: rbf
+    random_state: 42
+  score: 0.5866666666666667
+first_y_displacement_no_abs_99th_percentile:
+  param:
+    C: 965.755744743315
+    coef0: 778.427506893775
+    degree: 1
+    gamma: 576.1992604066164
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+first_y_displacement_no_abs_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 965.539724528512
+    coef0: 767.1383892723952
+    degree: 1
+    gamma: 632.5897863511169
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+first_y_displacement_no_abs_kurtosis:
+  param:
+    C: 653.9176481366454
+    coef0: 94.72134510979085
+    degree: 2
+    gamma: 912.8983566043719
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+first_y_displacement_no_abs_max:
+  param:
+    C: 963.01214555825
+    coef0: 5.62093448910548
+    degree: 1
+    gamma: 176.91777645683715
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+first_y_displacement_no_abs_mean:
+  param:
+    C: 919.4066231240082
+    coef0: 474.5825023825396
+    degree: 3
+    gamma: 656.1156033028791
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+first_y_displacement_no_abs_median:
+  param:
+    C: 806.2135934676343
+    coef0: 118.43160351458741
+    degree: 5
+    gamma: 245.41711434532323
+    kernel: rbf
+    random_state: 42
+  score: 0.5066666666666667
+first_y_displacement_no_abs_min:
+  param:
+    C: 35.546421546494685
+    coef0: 190.01188124517705
+    degree: 2
+    gamma: 260.53295982536685
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+first_y_displacement_no_abs_skewness:
+  param:
+    C: 966.0921578811556
+    coef0: 906.7981708317279
+    degree: 5
+    gamma: 74.89097480243021
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+first_y_displacement_no_abs_standard_deviation:
+  param:
+    C: 40.20799808611517
+    coef0: 582.3581912269118
+    degree: 2
+    gamma: 132.7214727975355
+    kernel: rbf
+    random_state: 42
+  score: 0.7333333333333333
+first_y_displacement_no_abs_variance:
+  param:
+    C: 781.6479451429287
+    coef0: 160.17089070838335
+    degree: 3
+    gamma: 63.95857824105527
+    kernel: rbf
+    random_state: 42
+  score: 0.72
+first_y_displacement_skewness:
+  param:
+    C: 391.9729253908661
+    coef0: 21.52190028657126
+    degree: 5
+    gamma: 62.91962487081775
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+first_y_displacement_standard_deviation:
+  param:
+    C: 407.7666398392698
+    coef0: 484.9345647576037
+    degree: 3
+    gamma: 995.5656801644634
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+first_y_displacement_variance:
+  param:
+    C: 340.1268210511338
+    coef0: 144.14010721416219
+    degree: 4
+    gamma: 736.7851458736437
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+first_y_kurtosis:
+  param:
+    C: 920.0736009134182
+    coef0: 332.05562480813234
+    degree: 3
+    gamma: 998.3097242467434
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+first_y_max:
+  param:
+    C: 1.4158471050855468
+    coef0: 24.359080227364277
+    degree: 3
+    gamma: 67.36144261478935
+    kernel: rbf
+    random_state: 42
+  score: 0.7733333333333333
+first_y_mean:
+  param:
+    C: 734.746773158554
+    coef0: 685.4661765850223
+    degree: 2
+    gamma: 114.24773534798253
+    kernel: rbf
+    random_state: 42
+  score: 0.76
+first_y_median:
+  param:
+    C: 437.0818438235008
+    coef0: 29.935803827480335
+    degree: 3
+    gamma: 877.9287160435481
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+first_y_min:
+  param:
+    C: 161.26239922367614
+    coef0: 99.44942955345117
+    degree: 5
+    gamma: 0.44987450652453626
+    kernel: rbf
+    random_state: 42
+  score: 0.7733333333333333
+first_y_skewness:
+  param:
+    C: 0.6076022001683583
+    coef0: 596.7833854329498
+    degree: 4
+    gamma: 251.65015173035235
+    kernel: sigmoid
+    random_state: 42
+  score: 0.88
+first_y_standard_deviation:
+  param:
+    C: 871.5422654532596
+    coef0: 962.8822585482874
+    degree: 4
+    gamma: 835.6442708637778
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+first_y_variance:
+  param:
+    C: 129.33683055391464
+    coef0: 669.8575414026202
+    degree: 3
+    gamma: 495.01649083222026
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+first_y_velocity_99th_percentile:
+  param:
+    C: 854.1094363102178
+    coef0: 607.9921793221346
+    degree: 5
+    gamma: 715.623252192673
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+first_y_velocity_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 775.6277588101324
+    coef0: 593.5791732175945
+    degree: 5
+    gamma: 696.8085046937816
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+first_y_velocity_kurtosis:
+  param:
+    C: 462.21866944722814
+    coef0: 308.90490115840953
+    degree: 3
+    gamma: 723.322637133055
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+first_y_velocity_max:
+  param:
+    C: 269.9534331600402
+    coef0: 445.42890854499495
+    degree: 4
+    gamma: 704.7224327607461
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+first_y_velocity_mean:
+  param:
+    C: 170.84436754047925
+    coef0: 950.0010319427302
+    degree: 1
+    gamma: 349.09841453374804
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+first_y_velocity_median:
+  param:
+    C: 517.1938561973163
+    coef0: 896.10301878804
+    degree: 4
+    gamma: 450.7638174893975
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6
+first_y_velocity_min:
+  param:
+    C: 77.64709389344708
+    coef0: 638.5051620908347
+    degree: 3
+    gamma: 476.6976733627396
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5066666666666667
+first_y_velocity_no_abs_1st_percentile:
+  param:
+    C: 174.94780974499088
+    coef0: 82.16494078776515
+    degree: 3
+    gamma: 612.3708428637046
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+first_y_velocity_no_abs_99th_percentile:
+  param:
+    C: 904.3839600023418
+    coef0: 988.8212734164144
+    degree: 2
+    gamma: 358.8007928617936
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+first_y_velocity_no_abs_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 192.0664908956782
+    coef0: 483.68032474150965
+    degree: 2
+    gamma: 333.4119029975325
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+first_y_velocity_no_abs_kurtosis:
+  param:
+    C: 0.3644040796370529
+    coef0: 89.99680634209997
+    degree: 1
+    gamma: 999.7876667585291
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+first_y_velocity_no_abs_max:
+  param:
+    C: 671.9448992657042
+    coef0: 592.6688171763665
+    degree: 4
+    gamma: 911.5801987792677
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+first_y_velocity_no_abs_mean:
+  param:
+    C: 606.2197029021679
+    coef0: 703.2717406915832
+    degree: 1
+    gamma: 666.3389854972745
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+first_y_velocity_no_abs_median:
+  param:
+    C: 54.642869695032466
+    coef0: 589.8659215490034
+    degree: 3
+    gamma: 875.3538415621642
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5066666666666667
+first_y_velocity_no_abs_min:
+  param:
+    C: 965.6752532074604
+    coef0: 63.163292160845536
+    degree: 3
+    gamma: 2.0297100408734536
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+first_y_velocity_no_abs_skewness:
+  param:
+    C: 0.8932505278603458
+    coef0: 211.32616542606064
+    degree: 3
+    gamma: 918.2242830008142
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+first_y_velocity_no_abs_standard_deviation:
+  param:
+    C: 187.01304356493222
+    coef0: 183.00536577364366
+    degree: 1
+    gamma: 0.9758555486243452
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+first_y_velocity_no_abs_variance:
+  param:
+    C: 189.35903141428537
+    coef0: 635.528466266868
+    degree: 2
+    gamma: 63.397661110831365
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+first_y_velocity_skewness:
+  param:
+    C: 269.6151432998425
+    coef0: 84.99912800113479
+    degree: 3
+    gamma: 862.4105803018628
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+first_y_velocity_standard_deviation:
+  param:
+    C: 812.3374235425644
+    coef0: 827.3496024820539
+    degree: 5
+    gamma: 0.028624400062795985
+    kernel: rbf
+    random_state: 42
+  score: 0.6133333333333333
+first_y_velocity_variance:
+  param:
+    C: 480.70976627083587
+    coef0: 934.8395958877652
+    degree: 5
+    gamma: 574.0883488537143
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+in_air_time:
+  param:
+    C: 631.782671488217
+    coef0: 125.11380842295351
+    degree: 2
+    gamma: 113.41588040128458
+    kernel: rbf
+    random_state: 42
+  score: 0.52
+intrinsic_feature_conventional_energy(displacement):
+  param:
+    C: 209.50397717834343
+    coef0: 739.1556027247073
+    degree: 2
+    gamma: 841.4377534656658
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+intrinsic_feature_conventional_energy(velocity):
+  param:
+    C: 809.15351935329
+    coef0: 736.6423108244136
+    degree: 1
+    gamma: 232.72423691459812
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8666666666666667
+intrinsic_feature_conventional_energy(x):
+  param:
+    C: 0.5837977264154346
+    coef0: 467.2658947942782
+    degree: 4
+    gamma: 824.4016292060177
+    kernel: rbf
+    random_state: 42
+  score: 0.7866666666666666
+intrinsic_feature_conventional_energy(y):
+  param:
+    C: 454.47053361981534
+    coef0: 629.5940113893676
+    degree: 4
+    gamma: 432.1080415031324
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+intrinsic_feature_renyi_entropy(displacement,2):
+  param:
+    C: 79.19994919602976
+    coef0: 554.3100838521156
+    degree: 5
+    gamma: 833.4520986366541
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+intrinsic_feature_renyi_entropy(displacement,3):
+  param:
+    C: 361.91930755826195
+    coef0: 49.35914536364328
+    degree: 3
+    gamma: 119.3957707279487
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+intrinsic_feature_renyi_entropy(velocity,2):
+  param:
+    C: 830.5936959332902
+    coef0: 733.2886178719602
+    degree: 2
+    gamma: 647.0617956087427
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+intrinsic_feature_renyi_entropy(velocity,3):
+  param:
+    C: 147.8995962864882
+    coef0: 552.9430934410883
+    degree: 1
+    gamma: 420.384466269
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+intrinsic_feature_renyi_entropy(x,2):
+  param:
+    C: 779.0519783063262
+    coef0: 964.7269537561136
+    degree: 4
+    gamma: 649.1675242285122
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+intrinsic_feature_renyi_entropy(x,3):
+  param:
+    C: 0.3718969292811618
+    coef0: 674.1788541703572
+    degree: 5
+    gamma: 54.56352936388341
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+intrinsic_feature_renyi_entropy(y,2):
+  param:
+    C: 0.5149259288154013
+    coef0: 939.1748313616661
+    degree: 1
+    gamma: 322.1072475431907
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+intrinsic_feature_renyi_entropy(y,3):
+  param:
+    C: 273.2026026185349
+    coef0: 507.2947366593953
+    degree: 2
+    gamma: 613.2798681298686
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+intrinsic_feature_shannon_entropy(displacement):
+  param:
+    C: 73.20485776019285
+    coef0: 969.5441731615682
+    degree: 3
+    gamma: 843.9036531590276
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+intrinsic_feature_shannon_entropy(velocity):
+  param:
+    C: 748.5012195480978
+    coef0: 683.956563994007
+    degree: 4
+    gamma: 581.1301454464356
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+intrinsic_feature_shannon_entropy(x):
+  param:
+    C: 941.5086634003388
+    coef0: 749.5752062966814
+    degree: 4
+    gamma: 790.4896511313391
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5733333333333334
+intrinsic_feature_shannon_entropy(y):
+  param:
+    C: 488.09049850379006
+    coef0: 161.02177975081923
+    degree: 1
+    gamma: 719.854188299937
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+intrinsic_feature_teager_kaiser_energy(displacement,1):
+  param:
+    C: 511.29383693951434
+    coef0: 89.7626373252068
+    degree: 3
+    gamma: 618.7162362526827
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+intrinsic_feature_teager_kaiser_energy(velocity,1):
+  param:
+    C: 400.42690157850075
+    coef0: 598.5862430292416
+    degree: 5
+    gamma: 31.12122380917344
+    kernel: rbf
+    random_state: 42
+  score: 0.7066666666666667
+intrinsic_feature_teager_kaiser_energy(x,1):
+  param:
+    C: 44.0230823190332
+    coef0: 464.4567742774193
+    degree: 1
+    gamma: 280.3544731902948
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+intrinsic_feature_teager_kaiser_energy(y,1):
+  param:
+    C: 532.865894501565
+    coef0: 553.0446918369713
+    degree: 4
+    gamma: 257.95247755322134
+    kernel: rbf
+    random_state: 42
+  score: 0.6133333333333333
+last_altitude_1st_percentile:
+  param:
+    C: 0.2513286041229037
+    coef0: 494.90365741647645
+    degree: 4
+    gamma: 574.3522541736246
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+last_altitude_99th_percentile:
+  param:
+    C: 436.3140420333241
+    coef0: 756.173340909367
+    degree: 3
+    gamma: 587.2681151243786
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+last_altitude_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 579.4510587027089
+    coef0: 672.7677930852111
+    degree: 5
+    gamma: 336.11424951626753
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+last_altitude_kurtosis:
+  param:
+    C: 605.648127770043
+    coef0: 489.87929898580046
+    degree: 1
+    gamma: 450.2797858028381
+    kernel: rbf
+    random_state: 42
+  score: 0.56
+last_altitude_max:
+  param:
+    C: 432.0561968652629
+    coef0: 453.80408901804185
+    degree: 2
+    gamma: 379.26224323416625
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+last_altitude_mean:
+  param:
+    C: 0.1523130811758584
+    coef0: 327.9032491264802
+    degree: 1
+    gamma: 860.014850178435
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+last_altitude_median:
+  param:
+    C: 40.45325762897446
+    coef0: 2.203635362311617
+    degree: 4
+    gamma: 86.00917390711814
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+last_altitude_min:
+  param:
+    C: 195.19035526551247
+    coef0: 599.86771898441
+    degree: 2
+    gamma: 903.3070929197645
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+last_altitude_skewness:
+  param:
+    C: 841.1895675670227
+    coef0: 909.0426564374435
+    degree: 4
+    gamma: 327.4714480741874
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8133333333333334
+last_altitude_standard_deviation:
+  param:
+    C: 874.9147871257112
+    coef0: 116.56481016133107
+    degree: 5
+    gamma: 837.4677976281997
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+last_altitude_variance:
+  param:
+    C: 728.9109303485225
+    coef0: 106.0635946460732
+    degree: 3
+    gamma: 816.5832865147235
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+last_azimuth_1st_percentile:
+  param:
+    C: 255.21214649674624
+    coef0: 385.998069002542
+    degree: 3
+    gamma: 244.78323319155945
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+last_azimuth_99th_percentile:
+  param:
+    C: 501.00815229634327
+    coef0: 39.219374032237674
+    degree: 5
+    gamma: 541.0939937894233
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+last_azimuth_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 37.28660026072264
+    coef0: 929.753355488233
+    degree: 3
+    gamma: 616.6755435622218
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+last_azimuth_kurtosis:
+  param:
+    C: 31.486023575504447
+    coef0: 17.782120391088448
+    degree: 1
+    gamma: 954.9883638914329
+    kernel: rbf
+    random_state: 42
+  score: 0.6
+last_azimuth_max:
+  param:
+    C: 413.6917435507957
+    coef0: 34.31508383574129
+    degree: 1
+    gamma: 930.548260104874
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+last_azimuth_mean:
+  param:
+    C: 315.1626755307078
+    coef0: 61.73355814838993
+    degree: 2
+    gamma: 585.0362935494766
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+last_azimuth_median:
+  param:
+    C: 848.2187152128724
+    coef0: 40.5755618897217
+    degree: 1
+    gamma: 951.1263752412326
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6
+last_azimuth_min:
+  param:
+    C: 268.37748195295376
+    coef0: 603.4025357214362
+    degree: 5
+    gamma: 366.22304992260854
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+last_azimuth_skewness:
+  param:
+    C: 967.5126601222814
+    coef0: 617.6778120401164
+    degree: 3
+    gamma: 737.6403891124904
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+last_azimuth_standard_deviation:
+  param:
+    C: 478.7443766840519
+    coef0: 710.3536361523903
+    degree: 3
+    gamma: 879.8386274538974
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+last_azimuth_variance:
+  param:
+    C: 405.80888662197344
+    coef0: 807.5395579434156
+    degree: 3
+    gamma: 720.8656902382767
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+last_displacement_99th_percentile:
+  param:
+    C: 1.4825030865974387
+    coef0: 23.73121785234236
+    degree: 2
+    gamma: 37.67193212771673
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+last_displacement_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 617.685488344413
+    coef0: 923.1290584307709
+    degree: 1
+    gamma: 1.300145641125623
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+last_displacement_kurtosis:
+  param:
+    C: 130.9681647355157
+    coef0: 527.6043531304645
+    degree: 3
+    gamma: 275.52712289324137
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+last_displacement_max:
+  param:
+    C: 202.58343583480416
+    coef0: 686.9489628467807
+    degree: 5
+    gamma: 199.38897466923427
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+last_displacement_mean:
+  param:
+    C: 96.52244825863086
+    coef0: 195.01816064247066
+    degree: 3
+    gamma: 904.5759286295998
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+last_displacement_median:
+  param:
+    C: 511.2608020130241
+    coef0: 373.5810746475797
+    degree: 5
+    gamma: 886.5678218039678
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+last_displacement_skewness:
+  param:
+    C: 273.5831183790095
+    coef0: 122.42671654586937
+    degree: 5
+    gamma: 166.6359169026201
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+last_displacement_standard_deviation:
+  param:
+    C: 768.247060630637
+    coef0: 652.6692009399317
+    degree: 5
+    gamma: 326.9832744256223
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+last_displacement_variance:
+  param:
+    C: 807.763707240267
+    coef0: 847.6584451019688
+    degree: 1
+    gamma: 616.1239045214237
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+last_pressure_1st_percentile:
+  param:
+    C: 725.6932141455475
+    coef0: 753.8288187283665
+    degree: 2
+    gamma: 981.2266555716569
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5066666666666667
+last_pressure_99th_percentile:
+  param:
+    C: 601.2614561909052
+    coef0: 65.1024822040013
+    degree: 2
+    gamma: 592.4125497771713
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+last_pressure_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 100.20002607939796
+    coef0: 86.64362896333608
+    degree: 5
+    gamma: 809.5470119102412
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+last_pressure_kurtosis:
+  param:
+    C: 368.98257419622433
+    coef0: 360.00276833357964
+    degree: 1
+    gamma: 752.4981119762144
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+last_pressure_max:
+  param:
+    C: 17.88621903854976
+    coef0: 428.6649280454313
+    degree: 5
+    gamma: 22.487403678649663
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+last_pressure_mean:
+  param:
+    C: 549.1510524211529
+    coef0: 134.08838938485673
+    degree: 1
+    gamma: 760.0010304456548
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+last_pressure_median:
+  param:
+    C: 173.26533276963775
+    coef0: 728.5185492219792
+    degree: 4
+    gamma: 279.6174400735806
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+last_pressure_skewness:
+  param:
+    C: 348.0833877538137
+    coef0: 564.4365265781425
+    degree: 4
+    gamma: 715.1768957390897
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+last_pressure_standard_deviation:
+  param:
+    C: 313.0911148825593
+    coef0: 877.0724922069896
+    degree: 5
+    gamma: 332.583476828229
+    kernel: sigmoid
+    random_state: 42
+  score: 0.9066666666666666
+last_pressure_variance:
+  param:
+    C: 24.428332750858495
+    coef0: 970.1732112204639
+    degree: 1
+    gamma: 984.0000267331928
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+last_velocity_99th_percentile:
+  param:
+    C: 227.06203491307807
+    coef0: 951.7365654311998
+    degree: 4
+    gamma: 322.3997202588525
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+last_velocity_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 983.8894070434748
+    coef0: 284.3263137425714
+    degree: 2
+    gamma: 99.01226227676445
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+last_velocity_kurtosis:
+  param:
+    C: 78.80061979067284
+    coef0: 468.9038125029637
+    degree: 3
+    gamma: 90.60305886850072
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+last_velocity_max:
+  param:
+    C: 125.8211205628941
+    coef0: 272.8268495862705
+    degree: 5
+    gamma: 965.3511083746279
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+last_velocity_mean:
+  param:
+    C: 456.62606230250987
+    coef0: 931.3973213928152
+    degree: 4
+    gamma: 66.05126774065945
+    kernel: rbf
+    random_state: 42
+  score: 0.72
+last_velocity_median:
+  param:
+    C: 421.04369189364013
+    coef0: 303.50883550326796
+    degree: 5
+    gamma: 884.7712737975224
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+last_velocity_skewness:
+  param:
+    C: 165.81643376382254
+    coef0: 67.56473207078002
+    degree: 5
+    gamma: 678.0894057614614
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+last_velocity_standard_deviation:
+  param:
+    C: 259.8476430871958
+    coef0: 943.9403629038001
+    degree: 3
+    gamma: 399.4681320615242
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+last_velocity_variance:
+  param:
+    C: 0.9717797507596302
+    coef0: 319.06606668019975
+    degree: 2
+    gamma: 322.0122779909097
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+last_x_1st_percentile:
+  param:
+    C: 772.0503534740396
+    coef0: 250.74029992007985
+    degree: 3
+    gamma: 983.5891865263006
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+last_x_99th_percentile:
+  param:
+    C: 44.62217273072845
+    coef0: 38.4839441356886
+    degree: 1
+    gamma: 134.4645363779904
+    kernel: rbf
+    random_state: 42
+  score: 0.76
+last_x_displacement_99th_percentile:
+  param:
+    C: 193.28207471684456
+    coef0: 862.4091452021362
+    degree: 4
+    gamma: 8.31727598561475
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+last_x_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 915.4966399202301
+    coef0: 549.8762412640573
+    degree: 3
+    gamma: 621.5582560411718
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+last_x_displacement_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 109.5366743391429
+    coef0: 637.3184946488291
+    degree: 3
+    gamma: 8.18901270966132
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+last_x_displacement_kurtosis:
+  param:
+    C: 724.9587037936774
+    coef0: 750.1792910941407
+    degree: 4
+    gamma: 224.56647541649258
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+last_x_displacement_max:
+  param:
+    C: 796.9767951784684
+    coef0: 83.15537912715433
+    degree: 4
+    gamma: 677.4978564163147
+    kernel: rbf
+    random_state: 42
+  score: 0.72
+last_x_displacement_mean:
+  param:
+    C: 173.79916095166632
+    coef0: 658.2774836454879
+    degree: 2
+    gamma: 76.9976316088352
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+last_x_displacement_median:
+  param:
+    C: 262.9937476653261
+    coef0: 153.26385595701157
+    degree: 2
+    gamma: 418.2478582656697
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+last_x_displacement_no_abs_1st_percentile:
+  param:
+    C: 358.0393999678087
+    coef0: 996.3641894331711
+    degree: 4
+    gamma: 444.0227371584243
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+last_x_displacement_no_abs_99th_percentile:
+  param:
+    C: 869.8029264025049
+    coef0: 178.86634147982926
+    degree: 1
+    gamma: 820.0340565153093
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+last_x_displacement_no_abs_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 343.9960343709371
+    coef0: 560.2872066553479
+    degree: 5
+    gamma: 893.228995748067
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+last_x_displacement_no_abs_kurtosis:
+  param:
+    C: 708.8202187697084
+    coef0: 703.5208166983132
+    degree: 1
+    gamma: 197.10390795262566
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+last_x_displacement_no_abs_max:
+  param:
+    C: 200.15440413269164
+    coef0: 462.4420977613211
+    degree: 3
+    gamma: 227.67569838638371
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+last_x_displacement_no_abs_mean:
+  param:
+    C: 747.942794648977
+    coef0: 62.89881037181096
+    degree: 4
+    gamma: 473.23220754449517
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+last_x_displacement_no_abs_median:
+  param:
+    C: 846.1537999528254
+    coef0: 266.45971345856935
+    degree: 2
+    gamma: 946.6919687074245
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5333333333333333
+last_x_displacement_no_abs_min:
+  param:
+    C: 654.3473644078599
+    coef0: 229.76853878991113
+    degree: 5
+    gamma: 63.94341739894878
+    kernel: rbf
+    random_state: 42
+  score: 0.6
+last_x_displacement_no_abs_skewness:
+  param:
+    C: 614.6900499968511
+    coef0: 735.436040425407
+    degree: 5
+    gamma: 0.46944243150713305
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+last_x_displacement_no_abs_standard_deviation:
+  param:
+    C: 370.9236142320978
+    coef0: 530.3029113729433
+    degree: 2
+    gamma: 947.9957725536535
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8266666666666667
+last_x_displacement_no_abs_variance:
+  param:
+    C: 632.9655399627593
+    coef0: 910.7328848439122
+    degree: 1
+    gamma: 661.3990716798162
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+last_x_displacement_skewness:
+  param:
+    C: 675.6488051668732
+    coef0: 993.6800550810713
+    degree: 2
+    gamma: 459.8378505201208
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+last_x_displacement_standard_deviation:
+  param:
+    C: 402.01098351656964
+    coef0: 816.9401130774818
+    degree: 4
+    gamma: 928.9964630138398
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+last_x_displacement_variance:
+  param:
+    C: 49.086529968095334
+    coef0: 38.65917062022094
+    degree: 1
+    gamma: 180.6426530730986
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+last_x_kurtosis:
+  param:
+    C: 886.6188990422007
+    coef0: 513.5552154309454
+    degree: 4
+    gamma: 38.38216795506096
+    kernel: rbf
+    random_state: 42
+  score: 0.6133333333333333
+last_x_max:
+  param:
+    C: 657.4831407132044
+    coef0: 15.654660311219287
+    degree: 1
+    gamma: 544.0404176031029
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+last_x_mean:
+  param:
+    C: 767.0099183457453
+    coef0: 16.231021616128025
+    degree: 2
+    gamma: 637.8514761631782
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+last_x_median:
+  param:
+    C: 276.932943178689
+    coef0: 0.14956982755075288
+    degree: 3
+    gamma: 975.3514303312222
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+last_x_min:
+  param:
+    C: 586.4339679971596
+    coef0: 206.48562599565074
+    degree: 1
+    gamma: 897.9630789848002
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+last_x_skewness:
+  param:
+    C: 170.94244958533076
+    coef0: 522.6542339390855
+    degree: 5
+    gamma: 225.14379965637352
+    kernel: rbf
+    random_state: 42
+  score: 0.76
+last_x_standard_deviation:
+  param:
+    C: 777.0938922155914
+    coef0: 296.72292801806714
+    degree: 3
+    gamma: 593.0768253745447
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+last_x_variance:
+  param:
+    C: 956.6640684709787
+    coef0: 702.9377934471055
+    degree: 1
+    gamma: 733.330149701239
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+last_x_velocity_99th_percentile:
+  param:
+    C: 76.66324503790342
+    coef0: 404.2630193692715
+    degree: 4
+    gamma: 688.3921050837062
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+last_x_velocity_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 444.0655257269938
+    coef0: 483.9243013774705
+    degree: 5
+    gamma: 826.8699894497289
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+last_x_velocity_kurtosis:
+  param:
+    C: 292.08893726335293
+    coef0: 560.500868496848
+    degree: 4
+    gamma: 648.4614996814186
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+last_x_velocity_max:
+  param:
+    C: 28.60234306643998
+    coef0: 864.2824313836907
+    degree: 5
+    gamma: 342.3463458896908
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+last_x_velocity_mean:
+  param:
+    C: 222.03557765547072
+    coef0: 476.01207779412783
+    degree: 1
+    gamma: 771.1819138610055
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+last_x_velocity_median:
+  param:
+    C: 879.5824303358703
+    coef0: 72.2907970021598
+    degree: 5
+    gamma: 754.9509629447132
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+last_x_velocity_no_abs_1st_percentile:
+  param:
+    C: 342.35539475426873
+    coef0: 99.23864594663752
+    degree: 3
+    gamma: 785.1847140023764
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+last_x_velocity_no_abs_99th_percentile:
+  param:
+    C: 401.3521261434783
+    coef0: 548.7048498600205
+    degree: 1
+    gamma: 480.63787386235737
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+last_x_velocity_no_abs_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 388.03378833912967
+    coef0: 623.6407580083596
+    degree: 2
+    gamma: 825.5283339934774
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+last_x_velocity_no_abs_kurtosis:
+  param:
+    C: 26.63284845865948
+    coef0: 505.7805893275131
+    degree: 5
+    gamma: 23.40542218106166
+    kernel: rbf
+    random_state: 42
+  score: 0.7066666666666667
+last_x_velocity_no_abs_max:
+  param:
+    C: 290.5500897755809
+    coef0: 61.437106261823715
+    degree: 2
+    gamma: 311.44075639326434
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+last_x_velocity_no_abs_mean:
+  param:
+    C: 221.38230798759662
+    coef0: 72.45282880528751
+    degree: 3
+    gamma: 396.76545949117997
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+last_x_velocity_no_abs_median:
+  param:
+    C: 701.8504244348283
+    coef0: 351.84571193971504
+    degree: 1
+    gamma: 862.5168455259376
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5333333333333333
+last_x_velocity_no_abs_min:
+  param:
+    C: 571.1392771128594
+    coef0: 860.1723206591068
+    degree: 1
+    gamma: 496.68429297719183
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+last_x_velocity_no_abs_skewness:
+  param:
+    C: 741.5716539852868
+    coef0: 37.285026252257325
+    degree: 4
+    gamma: 1.9285806124303946
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+last_x_velocity_no_abs_standard_deviation:
+  param:
+    C: 19.093075644045847
+    coef0: 79.0385104625826
+    degree: 3
+    gamma: 774.1691447018613
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+last_x_velocity_no_abs_variance:
+  param:
+    C: 538.5193443954605
+    coef0: 34.35411953663691
+    degree: 4
+    gamma: 416.44041028866764
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+last_x_velocity_skewness:
+  param:
+    C: 175.66542607072526
+    coef0: 179.9147329186058
+    degree: 4
+    gamma: 41.14962881000877
+    kernel: rbf
+    random_state: 42
+  score: 0.7333333333333333
+last_x_velocity_standard_deviation:
+  param:
+    C: 37.38321784390095
+    coef0: 57.793059283352264
+    degree: 2
+    gamma: 189.49512921316384
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8266666666666667
+last_x_velocity_variance:
+  param:
+    C: 534.6317260453405
+    coef0: 931.9255696863153
+    degree: 1
+    gamma: 522.9296420670051
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+last_y_1st_percentile:
+  param:
+    C: 0.4066399308682615
+    coef0: 454.5746225999675
+    degree: 3
+    gamma: 256.18902707295683
+    kernel: rbf
+    random_state: 42
+  score: 0.8133333333333334
+last_y_99th_percentile:
+  param:
+    C: 782.516773775795
+    coef0: 572.9860407193131
+    degree: 2
+    gamma: 2.4059088615851323
+    kernel: rbf
+    random_state: 42
+  score: 0.7866666666666666
+last_y_displacement_99th_percentile:
+  param:
+    C: 620.0303313268183
+    coef0: 22.008007403466557
+    degree: 2
+    gamma: 862.5762875755166
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+last_y_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 628.6186201404453
+    coef0: 125.38870974682266
+    degree: 4
+    gamma: 955.2752826697467
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+last_y_displacement_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 116.98718745592258
+    coef0: 127.58614711489902
+    degree: 4
+    gamma: 854.973305288503
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+last_y_displacement_kurtosis:
+  param:
+    C: 469.29216002055784
+    coef0: 135.52265409073192
+    degree: 1
+    gamma: 700.4575181728769
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+last_y_displacement_max:
+  param:
+    C: 918.1783294174285
+    coef0: 410.70700918572
+    degree: 5
+    gamma: 918.0754969496799
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+last_y_displacement_mean:
+  param:
+    C: 524.9332179436416
+    coef0: 611.7900884209117
+    degree: 4
+    gamma: 0.1985260925076664
+    kernel: rbf
+    random_state: 42
+  score: 0.6133333333333333
+last_y_displacement_median:
+  param:
+    C: 229.633710340426
+    coef0: 437.7877006337577
+    degree: 5
+    gamma: 192.91466248522062
+    kernel: rbf
+    random_state: 42
+  score: 0.6133333333333333
+last_y_displacement_no_abs_1st_percentile:
+  param:
+    C: 0.2362313158862932
+    coef0: 323.66031870974905
+    degree: 3
+    gamma: 585.9199854342468
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+last_y_displacement_no_abs_99th_percentile:
+  param:
+    C: 608.5366090811082
+    coef0: 133.81028706802368
+    degree: 3
+    gamma: 913.4759845138014
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+last_y_displacement_no_abs_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 688.376497009358
+    coef0: 248.44811408021928
+    degree: 3
+    gamma: 801.239655018944
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+last_y_displacement_no_abs_kurtosis:
+  param:
+    C: 619.2139444128153
+    coef0: 196.1129705191511
+    degree: 3
+    gamma: 835.1553587748446
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+last_y_displacement_no_abs_max:
+  param:
+    C: 148.7283834564349
+    coef0: 1.0644985822319022
+    degree: 3
+    gamma: 713.1153470912046
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+last_y_displacement_no_abs_mean:
+  param:
+    C: 250.1536076167083
+    coef0: 311.06366452798153
+    degree: 1
+    gamma: 973.5731180694896
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+last_y_displacement_no_abs_median:
+  param:
+    C: 122.2518800393846
+    coef0: 505.6591542511047
+    degree: 2
+    gamma: 227.50237098520293
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5066666666666667
+last_y_displacement_no_abs_min:
+  param:
+    C: 715.1078586959001
+    coef0: 98.76227832138592
+    degree: 1
+    gamma: 197.72705636890657
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+last_y_displacement_no_abs_skewness:
+  param:
+    C: 488.25449933029614
+    coef0: 326.38973048665866
+    degree: 3
+    gamma: 115.26849294340055
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+last_y_displacement_no_abs_standard_deviation:
+  param:
+    C: 685.9110228706272
+    coef0: 875.7049449259529
+    degree: 3
+    gamma: 20.224672284459196
+    kernel: rbf
+    random_state: 42
+  score: 0.6133333333333333
+last_y_displacement_no_abs_variance:
+  param:
+    C: 394.1922581281289
+    coef0: 215.65534539953148
+    degree: 3
+    gamma: 750.5598418771217
+    kernel: rbf
+    random_state: 42
+  score: 0.6133333333333333
+last_y_displacement_skewness:
+  param:
+    C: 577.9314223832906
+    coef0: 732.830180852172
+    degree: 1
+    gamma: 280.2344662665248
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8133333333333334
+last_y_displacement_standard_deviation:
+  param:
+    C: 431.4653085195525
+    coef0: 403.90755139197927
+    degree: 4
+    gamma: 831.1096619621376
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+last_y_displacement_variance:
+  param:
+    C: 961.0670932623535
+    coef0: 620.9646548980111
+    degree: 5
+    gamma: 471.2187005468528
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+last_y_kurtosis:
+  param:
+    C: 869.3832655715597
+    coef0: 333.3735240441188
+    degree: 5
+    gamma: 996.9614273193641
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+last_y_max:
+  param:
+    C: 649.9471448369113
+    coef0: 492.17773595967367
+    degree: 2
+    gamma: 0.23220525510843615
+    kernel: rbf
+    random_state: 42
+  score: 0.7866666666666666
+last_y_mean:
+  param:
+    C: 15.743097399039096
+    coef0: 972.1542244277526
+    degree: 5
+    gamma: 107.8239217679644
+    kernel: rbf
+    random_state: 42
+  score: 0.8133333333333334
+last_y_median:
+  param:
+    C: 892.3878575535222
+    coef0: 864.6626518675147
+    degree: 2
+    gamma: 361.53460101202955
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+last_y_min:
+  param:
+    C: 5.280754773131605
+    coef0: 423.8211131839334
+    degree: 1
+    gamma: 275.96304512018384
+    kernel: rbf
+    random_state: 42
+  score: 0.7866666666666666
+last_y_skewness:
+  param:
+    C: 37.02926442676923
+    coef0: 816.6430137989718
+    degree: 3
+    gamma: 389.2233585299631
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+last_y_standard_deviation:
+  param:
+    C: 782.8483842532136
+    coef0: 237.11123920496107
+    degree: 3
+    gamma: 889.4357189367048
+    kernel: rbf
+    random_state: 42
+  score: 0.6133333333333333
+last_y_variance:
+  param:
+    C: 0.6275919930169387
+    coef0: 853.9332365047422
+    degree: 2
+    gamma: 424.2060758547551
+    kernel: sigmoid
+    random_state: 42
+  score: 0.9066666666666666
+last_y_velocity_99th_percentile:
+  param:
+    C: 376.06603668308543
+    coef0: 678.7650890760628
+    degree: 2
+    gamma: 297.6252395409436
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+last_y_velocity_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 0.7174569044054309
+    coef0: 668.1267143934631
+    degree: 1
+    gamma: 351.26008316339875
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8666666666666667
+last_y_velocity_kurtosis:
+  param:
+    C: 1.786062012362752
+    coef0: 228.32272485936238
+    degree: 5
+    gamma: 619.9978800663156
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+last_y_velocity_max:
+  param:
+    C: 816.5348123087056
+    coef0: 92.46753612288175
+    degree: 5
+    gamma: 263.3937555309316
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+last_y_velocity_mean:
+  param:
+    C: 564.0675233913802
+    coef0: 175.4607377242693
+    degree: 3
+    gamma: 355.7987102226666
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+last_y_velocity_median:
+  param:
+    C: 516.8513730524511
+    coef0: 442.3514802954658
+    degree: 2
+    gamma: 906.9028262348321
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+last_y_velocity_no_abs_1st_percentile:
+  param:
+    C: 172.87922443395854
+    coef0: 891.7042133517086
+    degree: 2
+    gamma: 410.3369816453593
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+last_y_velocity_no_abs_99th_percentile:
+  param:
+    C: 144.26181754586932
+    coef0: 174.28706757083214
+    degree: 3
+    gamma: 895.9361078339105
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+last_y_velocity_no_abs_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 112.82875476811425
+    coef0: 298.28832595571174
+    degree: 1
+    gamma: 935.0615889508298
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+last_y_velocity_no_abs_kurtosis:
+  param:
+    C: 782.663376837617
+    coef0: 339.7513957873427
+    degree: 2
+    gamma: 46.1486192692097
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+last_y_velocity_no_abs_max:
+  param:
+    C: 797.6001417188509
+    coef0: 201.5861765566602
+    degree: 4
+    gamma: 22.386759195102968
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+last_y_velocity_no_abs_mean:
+  param:
+    C: 845.2999439832707
+    coef0: 40.076206200573566
+    degree: 2
+    gamma: 948.8935262974356
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+last_y_velocity_no_abs_median:
+  param:
+    C: 197.905989483611
+    coef0: 521.9667538779995
+    degree: 2
+    gamma: 377.71145253282134
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5066666666666667
+last_y_velocity_no_abs_min:
+  param:
+    C: 37.101143225810965
+    coef0: 721.3892310096493
+    degree: 4
+    gamma: 331.7546293653277
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+last_y_velocity_no_abs_skewness:
+  param:
+    C: 752.4120557221275
+    coef0: 410.88028627905953
+    degree: 5
+    gamma: 948.7333103377018
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+last_y_velocity_no_abs_standard_deviation:
+  param:
+    C: 724.8116395118038
+    coef0: 707.6752788238496
+    degree: 1
+    gamma: 944.7544009798914
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+last_y_velocity_no_abs_variance:
+  param:
+    C: 15.100100339439626
+    coef0: 908.4187723973126
+    degree: 3
+    gamma: 834.4132370121808
+    kernel: rbf
+    random_state: 42
+  score: 0.6133333333333333
+last_y_velocity_skewness:
+  param:
+    C: 117.05590582734203
+    coef0: 114.08258502728215
+    degree: 3
+    gamma: 910.8972486011912
+    kernel: rbf
+    random_state: 42
+  score: 0.6
+last_y_velocity_standard_deviation:
+  param:
+    C: 138.28498913333823
+    coef0: 365.52686259281336
+    degree: 2
+    gamma: 138.58887308725681
+    kernel: rbf
+    random_state: 42
+  score: 0.6
+last_y_velocity_variance:
+  param:
+    C: 771.826936065318
+    coef0: 859.3320100898444
+    degree: 4
+    gamma: 337.985415648316
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+on_surface_time:
+  param:
+    C: 48.725281896688536
+    coef0: 306.9207142050442
+    degree: 3
+    gamma: 76.69528680521174
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+overall_time:
+  param:
+    C: 735.0158276390745
+    coef0: 74.98701698726707
+    degree: 2
+    gamma: 68.80738738759393
+    kernel: rbf
+    random_state: 42
+  score: 0.52
+pressure_99th_percentile:
+  param:
+    C: 324.63052880816684
+    coef0: 643.8656872391564
+    degree: 5
+    gamma: 221.44345468298621
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+pressure_Number_of_changing_point:
+  param:
+    C: 624.1966079135943
+    coef0: 848.4245543797393
+    degree: 5
+    gamma: 898.2461816406595
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+pressure_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 66.9210602184693
+    coef0: 792.7920615903845
+    degree: 4
+    gamma: 299.89904823395926
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+pressure_kurtosis:
+  param:
+    C: 9.603465932066314
+    coef0: 170.72315228023965
+    degree: 3
+    gamma: 817.5713016833716
+    kernel: rbf
+    random_state: 42
+  score: 0.6
+pressure_max:
+  param:
+    C: 317.6826592701719
+    coef0: 59.52063509485703
+    degree: 4
+    gamma: 656.8204671258511
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+pressure_mean:
+  param:
+    C: 483.2956770420552
+    coef0: 104.05223930558878
+    degree: 5
+    gamma: 886.6053918898085
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+pressure_median:
+  param:
+    C: 268.1123899479207
+    coef0: 882.342646783396
+    degree: 4
+    gamma: 672.3047759266291
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+pressure_skewness:
+  param:
+    C: 321.99747928033736
+    coef0: 542.4991326817096
+    degree: 3
+    gamma: 938.4427520015057
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+pressure_standard_deviation:
+  param:
+    C: 512.8040878806012
+    coef0: 940.8729278630001
+    degree: 2
+    gamma: 52.919277954942054
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+pressure_variance:
+  param:
+    C: 6.044144351943391
+    coef0: 310.90296857468564
+    degree: 2
+    gamma: 983.8801270916877
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+ratio_of_in_air_time:
+  param:
+    C: 348.63735067718943
+    coef0: 636.4579148026803
+    degree: 3
+    gamma: 441.41768120217733
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+ratio_of_on_surface_time:
+  param:
+    C: 303.6125465297827
+    coef0: 684.2142352453011
+    degree: 4
+    gamma: 431.0919711334279
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_dis_1st_each_stroke_99th_percentile:
+  param:
+    C: 19.517766301979375
+    coef0: 216.59314183357424
+    degree: 4
+    gamma: 643.561958724971
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+stroke_dis_1st_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 888.4388682938531
+    coef0: 934.249733980962
+    degree: 1
+    gamma: 833.2413195656051
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_dis_1st_each_stroke_max:
+  param:
+    C: 645.4115377771653
+    coef0: 20.352942612090295
+    degree: 3
+    gamma: 69.01716053471327
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+stroke_dis_1st_each_stroke_mean:
+  param:
+    C: 370.4210440651947
+    coef0: 85.02099407990673
+    degree: 1
+    gamma: 0.4497114459472771
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+stroke_dis_1st_each_stroke_median:
+  param:
+    C: 584.301097546609
+    coef0: 823.9547403972266
+    degree: 1
+    gamma: 333.0396742084177
+    kernel: rbf
+    random_state: 42
+  score: 0.5466666666666666
+stroke_dis_1st_each_stroke_standard_deviation:
+  param:
+    C: 872.1249621520794
+    coef0: 135.8150191821793
+    degree: 3
+    gamma: 967.0073614935577
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_dis_1st_each_stroke_variance:
+  param:
+    C: 0.3437110398677632
+    coef0: 12.263715627670189
+    degree: 4
+    gamma: 51.169444354584286
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_dis_99_1_each_stroke_1st_percentile:
+  param:
+    C: 874.139650752816
+    coef0: 214.9497754102518
+    degree: 3
+    gamma: 206.09393900447472
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+stroke_dis_99_1_each_stroke_99th_percentile:
+  param:
+    C: 982.0161934592177
+    coef0: 0.6028339119837938
+    degree: 5
+    gamma: 1.5716856394818706
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+stroke_dis_99_1_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 578.5816318122232
+    coef0: 144.90282624945564
+    degree: 4
+    gamma: 585.3131219418281
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+stroke_dis_99_1_each_stroke_kurtosis:
+  param:
+    C: 56.11073829223841
+    coef0: 899.3779454665078
+    degree: 2
+    gamma: 265.76967873162573
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+stroke_dis_99_1_each_stroke_max:
+  param:
+    C: 750.9049587057497
+    coef0: 293.3924130710272
+    degree: 3
+    gamma: 715.9806954121069
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_dis_99_1_each_stroke_mean:
+  param:
+    C: 104.21586871212354
+    coef0: 1.310858927567164
+    degree: 3
+    gamma: 0.00890711700196789
+    kernel: rbf
+    random_state: 42
+  score: 0.6
+stroke_dis_99_1_each_stroke_median:
+  param:
+    C: 987.4593269406636
+    coef0: 113.84817863766261
+    degree: 3
+    gamma: 351.55856000225657
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+stroke_dis_99_1_each_stroke_min:
+  param:
+    C: 880.3112446461729
+    coef0: 297.26479814040965
+    degree: 3
+    gamma: 89.81364363747146
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+stroke_dis_99_1_each_stroke_skewness:
+  param:
+    C: 851.6118359436555
+    coef0: 600.3563503449872
+    degree: 1
+    gamma: 171.96248559588577
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_dis_99_1_each_stroke_standard_deviation:
+  param:
+    C: 433.3614551065348
+    coef0: 59.078482977469136
+    degree: 2
+    gamma: 425.25285802091537
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+stroke_dis_99_1_each_stroke_variance:
+  param:
+    C: 352.75041109696065
+    coef0: 34.76547337482785
+    degree: 1
+    gamma: 656.4750931251781
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_dis_99th_each_stroke_1st_percentile:
+  param:
+    C: 352.5869879003856
+    coef0: 10.312493660158834
+    degree: 1
+    gamma: 874.1279971499508
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_dis_99th_each_stroke_99th_percentile:
+  param:
+    C: 168.41780065918041
+    coef0: 17.2328788462054
+    degree: 1
+    gamma: 259.3979514056365
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_dis_99th_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 699.1078719518629
+    coef0: 106.58610364439961
+    degree: 5
+    gamma: 404.6438869085999
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+stroke_dis_99th_each_stroke_kurtosis:
+  param:
+    C: 381.5385349299927
+    coef0: 766.1594309657589
+    degree: 5
+    gamma: 262.8507781002284
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_dis_99th_each_stroke_max:
+  param:
+    C: 169.29207608621317
+    coef0: 529.3947811250147
+    degree: 2
+    gamma: 2.362171983308947
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+stroke_dis_99th_each_stroke_mean:
+  param:
+    C: 166.93473964849858
+    coef0: 164.61080092157448
+    degree: 1
+    gamma: 174.67694367254825
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+stroke_dis_99th_each_stroke_median:
+  param:
+    C: 877.6476090335956
+    coef0: 726.7672259803352
+    degree: 1
+    gamma: 304.66647850311693
+    kernel: sigmoid
+    random_state: 42
+  score: 0.56
+stroke_dis_99th_each_stroke_min:
+  param:
+    C: 208.01187945069464
+    coef0: 967.3495349225577
+    degree: 1
+    gamma: 441.6324298364536
+    kernel: rbf
+    random_state: 42
+  score: 0.76
+stroke_dis_99th_each_stroke_skewness:
+  param:
+    C: 999.9112667118054
+    coef0: 205.61717318851058
+    degree: 2
+    gamma: 890.356707502119
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_dis_99th_each_stroke_standard_deviation:
+  param:
+    C: 73.19443182609893
+    coef0: 768.6402202535076
+    degree: 3
+    gamma: 809.5294938662083
+    kernel: sigmoid
+    random_state: 42
+  score: 0.88
+stroke_dis_99th_each_stroke_variance:
+  param:
+    C: 391.0747377505734
+    coef0: 148.97350904953856
+    degree: 2
+    gamma: 274.2758931139921
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+stroke_dis_kur_each_stroke_1st_percentile:
+  param:
+    C: 768.5292744707832
+    coef0: 546.1392584103938
+    degree: 4
+    gamma: 198.90812171853642
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_dis_kur_each_stroke_99th_percentile:
+  param:
+    C: 870.5640523936639
+    coef0: 687.2311710083238
+    degree: 4
+    gamma: 273.3334742063533
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+stroke_dis_kur_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 195.94884337302335
+    coef0: 403.87138959561236
+    degree: 4
+    gamma: 149.20337431377496
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+stroke_dis_kur_each_stroke_max:
+  param:
+    C: 368.4666104151581
+    coef0: 304.5737808711506
+    degree: 5
+    gamma: 935.9212364676887
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+stroke_dis_kur_each_stroke_mean:
+  param:
+    C: 403.68830369369095
+    coef0: 68.93150896315733
+    degree: 5
+    gamma: 939.8218815396758
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_dis_kur_each_stroke_median:
+  param:
+    C: 261.4898440413081
+    coef0: 926.4360524358575
+    degree: 3
+    gamma: 337.2916514199594
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_dis_kur_each_stroke_min:
+  param:
+    C: 563.8980644923063
+    coef0: 157.58867997277474
+    degree: 2
+    gamma: 462.18100962409454
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+stroke_dis_kur_each_stroke_standard_deviation:
+  param:
+    C: 876.0451928410539
+    coef0: 729.8269255651602
+    degree: 2
+    gamma: 290.67490220075024
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+stroke_dis_kur_each_stroke_variance:
+  param:
+    C: 84.06108252031177
+    coef0: 868.2234003828219
+    degree: 3
+    gamma: 603.8440123440042
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_dis_max_each_stroke_1st_percentile:
+  param:
+    C: 997.8897068871321
+    coef0: 340.6357769967014
+    degree: 2
+    gamma: 886.7493175413414
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_dis_max_each_stroke_99th_percentile:
+  param:
+    C: 239.60127366259164
+    coef0: 758.2937164180374
+    degree: 2
+    gamma: 222.85111108743416
+    kernel: sigmoid
+    random_state: 42
+  score: 0.88
+stroke_dis_max_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 439.8853076180955
+    coef0: 978.2403501320882
+    degree: 1
+    gamma: 304.95134858057276
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+stroke_dis_max_each_stroke_kurtosis:
+  param:
+    C: 781.7446377407008
+    coef0: 112.75922793709658
+    degree: 5
+    gamma: 428.5290686075141
+    kernel: rbf
+    random_state: 42
+  score: 0.5733333333333334
+stroke_dis_max_each_stroke_max:
+  param:
+    C: 41.93114036927884
+    coef0: 868.0332749092945
+    degree: 4
+    gamma: 236.14235059967234
+    kernel: sigmoid
+    random_state: 42
+  score: 0.88
+stroke_dis_max_each_stroke_mean:
+  param:
+    C: 398.22681385791185
+    coef0: 696.5734102321197
+    degree: 4
+    gamma: 1.5895516479076042
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+stroke_dis_max_each_stroke_median:
+  param:
+    C: 178.14985786258973
+    coef0: 10.71952966389425
+    degree: 2
+    gamma: 237.69090038313624
+    kernel: rbf
+    random_state: 42
+  score: 0.5866666666666667
+stroke_dis_max_each_stroke_min:
+  param:
+    C: 552.008159929851
+    coef0: 501.1142221673264
+    degree: 4
+    gamma: 31.56347821878908
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+stroke_dis_max_each_stroke_skewness:
+  param:
+    C: 923.1295037304735
+    coef0: 831.6968321985279
+    degree: 3
+    gamma: 175.72337145514103
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+stroke_dis_max_each_stroke_standard_deviation:
+  param:
+    C: 116.30479927158495
+    coef0: 375.0977214867855
+    degree: 1
+    gamma: 625.393315700691
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+stroke_dis_max_each_stroke_variance:
+  param:
+    C: 19.519106059934956
+    coef0: 158.10392707564134
+    degree: 5
+    gamma: 511.1208332045877
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8266666666666667
+stroke_dis_mean_each_stroke_1st_percentile:
+  param:
+    C: 132.85938945813956
+    coef0: 261.1659304656788
+    degree: 3
+    gamma: 969.0606974123973
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+stroke_dis_mean_each_stroke_99th_percentile:
+  param:
+    C: 415.2607607528104
+    coef0: 27.75345650751541
+    degree: 5
+    gamma: 609.6518180978492
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_dis_mean_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 469.2268248966195
+    coef0: 194.79530584409605
+    degree: 5
+    gamma: 563.7432238269212
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+stroke_dis_mean_each_stroke_kurtosis:
+  param:
+    C: 478.7291135698836
+    coef0: 3.220487122600207
+    degree: 3
+    gamma: 832.3430906546783
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_dis_mean_each_stroke_max:
+  param:
+    C: 176.15971977087793
+    coef0: 744.798777209457
+    degree: 5
+    gamma: 692.1975716228114
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+stroke_dis_mean_each_stroke_mean:
+  param:
+    C: 488.27588976437346
+    coef0: 655.6733284174591
+    degree: 2
+    gamma: 870.3168642277689
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+stroke_dis_mean_each_stroke_median:
+  param:
+    C: 99.82597395490248
+    coef0: 402.34843074119385
+    degree: 5
+    gamma: 825.862471843125
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+stroke_dis_mean_each_stroke_min:
+  param:
+    C: 147.3416364385724
+    coef0: 213.34126404313443
+    degree: 3
+    gamma: 549.1098141720337
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+stroke_dis_mean_each_stroke_skewness:
+  param:
+    C: 3.8712962081612146
+    coef0: 0.6687746123711946
+    degree: 2
+    gamma: 995.5097349785188
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+stroke_dis_mean_each_stroke_standard_deviation:
+  param:
+    C: 0.18975077531707285
+    coef0: 34.45735230641739
+    degree: 1
+    gamma: 662.3829411114414
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+stroke_dis_mean_each_stroke_variance:
+  param:
+    C: 564.667210150232
+    coef0: 588.8393676861522
+    degree: 4
+    gamma: 198.98350399719587
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+stroke_dis_median_each_stroke_1st_percentile:
+  param:
+    C: 675.0250416524076
+    coef0: 151.5107989120176
+    degree: 5
+    gamma: 578.799606920921
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+stroke_dis_median_each_stroke_99th_percentile:
+  param:
+    C: 697.735410314144
+    coef0: 285.68511740650797
+    degree: 5
+    gamma: 46.0636094705252
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+stroke_dis_median_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 851.9668507193298
+    coef0: 90.5286992092561
+    degree: 2
+    gamma: 704.0595883542876
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+stroke_dis_median_each_stroke_kurtosis:
+  param:
+    C: 303.65519096167475
+    coef0: 797.0971596519452
+    degree: 4
+    gamma: 29.271719786065336
+    kernel: rbf
+    random_state: 42
+  score: 0.6
+stroke_dis_median_each_stroke_max:
+  param:
+    C: 413.8361416549897
+    coef0: 220.12439542039527
+    degree: 5
+    gamma: 27.590544337206268
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+stroke_dis_median_each_stroke_mean:
+  param:
+    C: 621.9733138081052
+    coef0: 357.7764205992654
+    degree: 4
+    gamma: 497.98849675219327
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+stroke_dis_median_each_stroke_median:
+  param:
+    C: 100.40200859386746
+    coef0: 640.1340465915121
+    degree: 5
+    gamma: 553.5565922323213
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_dis_median_each_stroke_min:
+  param:
+    C: 775.8572777521754
+    coef0: 33.034133209971436
+    degree: 1
+    gamma: 876.9143469261118
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5466666666666666
+stroke_dis_median_each_stroke_skewness:
+  param:
+    C: 407.9156243703024
+    coef0: 217.21160442183427
+    degree: 3
+    gamma: 916.7689626128542
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_dis_median_each_stroke_standard_deviation:
+  param:
+    C: 358.95967673097016
+    coef0: 649.9982168223805
+    degree: 5
+    gamma: 997.3684812068896
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+stroke_dis_median_each_stroke_variance:
+  param:
+    C: 604.9030994417362
+    coef0: 489.24232777757095
+    degree: 2
+    gamma: 304.0324963650427
+    kernel: rbf
+    random_state: 42
+  score: 0.7066666666666667
+stroke_dis_min_each_stroke_99th_percentile:
+  param:
+    C: 590.2570677496992
+    coef0: 375.4596850279057
+    degree: 5
+    gamma: 470.6074888206285
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+stroke_dis_min_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 71.77157798243891
+    coef0: 940.4879824332922
+    degree: 2
+    gamma: 853.2212484180812
+    kernel: rbf
+    random_state: 42
+  score: 0.6133333333333333
+stroke_dis_min_each_stroke_max:
+  param:
+    C: 207.7674057844611
+    coef0: 665.2470773609408
+    degree: 2
+    gamma: 738.2687397905007
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+stroke_dis_min_each_stroke_mean:
+  param:
+    C: 15.27122905409874
+    coef0: 132.16043783915293
+    degree: 5
+    gamma: 77.27443524405865
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+stroke_dis_min_each_stroke_standard_deviation:
+  param:
+    C: 609.4518751872681
+    coef0: 53.745772853081746
+    degree: 5
+    gamma: 985.8857036223825
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+stroke_dis_min_each_stroke_variance:
+  param:
+    C: 703.2906653391993
+    coef0: 159.00905471925262
+    degree: 1
+    gamma: 978.0316822106121
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_dis_ske_each_stroke_1st_percentile:
+  param:
+    C: 940.9846675571665
+    coef0: 3.3599920343101464
+    degree: 3
+    gamma: 123.51698733954457
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_dis_ske_each_stroke_99th_percentile:
+  param:
+    C: 906.9778918264641
+    coef0: 142.04901549254294
+    degree: 5
+    gamma: 869.7247267107929
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_dis_ske_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 0.37507033587195515
+    coef0: 946.5073381136324
+    degree: 1
+    gamma: 23.54198638204388
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+stroke_dis_ske_each_stroke_max:
+  param:
+    C: 840.9502658351067
+    coef0: 54.49466226886709
+    degree: 4
+    gamma: 301.3113921710736
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+stroke_dis_ske_each_stroke_mean:
+  param:
+    C: 892.4643603781709
+    coef0: 974.5567580227083
+    degree: 5
+    gamma: 205.83407322321543
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+stroke_dis_ske_each_stroke_median:
+  param:
+    C: 144.74842617756104
+    coef0: 101.39682640641664
+    degree: 2
+    gamma: 771.2611806007834
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+stroke_dis_ske_each_stroke_min:
+  param:
+    C: 638.3469922011791
+    coef0: 126.37931351735267
+    degree: 4
+    gamma: 157.43681346580863
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_dis_ske_each_stroke_standard_deviation:
+  param:
+    C: 656.4810953240866
+    coef0: 331.5984491890051
+    degree: 4
+    gamma: 907.4375887106856
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+stroke_dis_ske_each_stroke_variance:
+  param:
+    C: 854.1199811864199
+    coef0: 289.95020179296
+    degree: 2
+    gamma: 617.755563377077
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_dis_std_each_stroke_1st_percentile:
+  param:
+    C: 767.6218161113079
+    coef0: 491.88623026321324
+    degree: 5
+    gamma: 821.4810235870282
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8266666666666667
+stroke_dis_std_each_stroke_99th_percentile:
+  param:
+    C: 812.7142896638533
+    coef0: 923.9284836592226
+    degree: 2
+    gamma: 8.057294722318204
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+stroke_dis_std_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 840.9110753418087
+    coef0: 289.9714609469139
+    degree: 4
+    gamma: 981.8896943203381
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_dis_std_each_stroke_kurtosis:
+  param:
+    C: 724.9977087341855
+    coef0: 414.457928133695
+    degree: 4
+    gamma: 121.62782889847784
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+stroke_dis_std_each_stroke_max:
+  param:
+    C: 0.5464649406840465
+    coef0: 114.13881843938222
+    degree: 3
+    gamma: 56.564775006899204
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+stroke_dis_std_each_stroke_mean:
+  param:
+    C: 234.96440179480848
+    coef0: 643.1019008444111
+    degree: 5
+    gamma: 144.25732133135665
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+stroke_dis_std_each_stroke_median:
+  param:
+    C: 430.24734026559645
+    coef0: 932.7070982713425
+    degree: 1
+    gamma: 501.0249148341195
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+stroke_dis_std_each_stroke_min:
+  param:
+    C: 14.594048705891302
+    coef0: 329.173822959145
+    degree: 1
+    gamma: 568.5615562846122
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_dis_std_each_stroke_skewness:
+  param:
+    C: 346.09862365602476
+    coef0: 286.0832028682903
+    degree: 3
+    gamma: 254.42571861625012
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_dis_std_each_stroke_standard_deviation:
+  param:
+    C: 129.04120849111976
+    coef0: 76.28515406434767
+    degree: 4
+    gamma: 769.2014027832194
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+stroke_dis_std_each_stroke_variance:
+  param:
+    C: 426.44361176565116
+    coef0: 174.75633427920465
+    degree: 4
+    gamma: 999.0333776329865
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+stroke_dis_variance_each_stroke_1st_percentile:
+  param:
+    C: 272.1584093456766
+    coef0: 956.5721469108086
+    degree: 3
+    gamma: 725.9223678906092
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+stroke_dis_variance_each_stroke_99th_percentile:
+  param:
+    C: 9.84013292489398
+    coef0: 434.03726441237984
+    degree: 3
+    gamma: 124.38108544147359
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+stroke_dis_variance_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 0.4327947937046268
+    coef0: 244.2186019053662
+    degree: 1
+    gamma: 69.72017386777078
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+stroke_dis_variance_each_stroke_kurtosis:
+  param:
+    C: 550.6270758970215
+    coef0: 239.84297518283176
+    degree: 2
+    gamma: 618.7682230418138
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_dis_variance_each_stroke_max:
+  param:
+    C: 121.42660310771545
+    coef0: 935.3455849558948
+    degree: 4
+    gamma: 36.17007353888546
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+stroke_dis_variance_each_stroke_mean:
+  param:
+    C: 201.08272264811058
+    coef0: 425.93374863274386
+    degree: 1
+    gamma: 290.6982777395271
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+stroke_dis_variance_each_stroke_median:
+  param:
+    C: 483.72844546725946
+    coef0: 786.8193013002109
+    degree: 1
+    gamma: 297.66487208280273
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_dis_variance_each_stroke_min:
+  param:
+    C: 627.9387863015528
+    coef0: 67.1847578576732
+    degree: 5
+    gamma: 776.1575684635819
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_dis_variance_each_stroke_skewness:
+  param:
+    C: 0.8426168641458247
+    coef0: 740.9810320960295
+    degree: 1
+    gamma: 296.6890349742194
+    kernel: sigmoid
+    random_state: 42
+  score: 0.9733333333333334
+stroke_dis_variance_each_stroke_standard_deviation:
+  param:
+    C: 225.7391103297083
+    coef0: 469.00541539947676
+    degree: 2
+    gamma: 28.373846876995835
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+stroke_dis_variance_each_stroke_variance:
+  param:
+    C: 123.2783501061955
+    coef0: 14.434752847902402
+    degree: 1
+    gamma: 73.23576866514006
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+stroke_pressure_1st_each_stroke_1st_percentile:
+  param:
+    C: 654.505885512109
+    coef0: 33.67489170841509
+    degree: 1
+    gamma: 629.194324142557
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_pressure_1st_each_stroke_99th_percentile:
+  param:
+    C: 166.171194378853
+    coef0: 889.8554402825005
+    degree: 1
+    gamma: 34.52300445214016
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+stroke_pressure_1st_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 114.95566852444776
+    coef0: 22.415963453466226
+    degree: 3
+    gamma: 25.102247439519754
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+stroke_pressure_1st_each_stroke_kurtosis:
+  param:
+    C: 173.53705715789837
+    coef0: 70.29568551938864
+    degree: 3
+    gamma: 492.7432940482598
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+stroke_pressure_1st_each_stroke_max:
+  param:
+    C: 723.499010835921
+    coef0: 95.86338681567389
+    degree: 5
+    gamma: 351.1114266115453
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+stroke_pressure_1st_each_stroke_mean:
+  param:
+    C: 131.67635965196422
+    coef0: 124.68611208263827
+    degree: 3
+    gamma: 984.0560680634236
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+stroke_pressure_1st_each_stroke_median:
+  param:
+    C: 317.7398829632494
+    coef0: 317.86159471028407
+    degree: 5
+    gamma: 622.0222311962418
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+stroke_pressure_1st_each_stroke_min:
+  param:
+    C: 275.94965747072104
+    coef0: 281.1958548926336
+    degree: 2
+    gamma: 846.9864373779922
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_pressure_1st_each_stroke_skewness:
+  param:
+    C: 999.162636164631
+    coef0: 18.70847530004711
+    degree: 5
+    gamma: 320.42359733168576
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+stroke_pressure_1st_each_stroke_standard_deviation:
+  param:
+    C: 764.0277328980427
+    coef0: 975.100570756979
+    degree: 1
+    gamma: 483.67962381008914
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_pressure_1st_each_stroke_variance:
+  param:
+    C: 970.2274451232097
+    coef0: 991.0758809882276
+    degree: 1
+    gamma: 310.0061975901837
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_pressure_99_1_each_stroke_1st_percentile:
+  param:
+    C: 598.5971568037937
+    coef0: 782.1896945986686
+    degree: 3
+    gamma: 627.2336634745851
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6
+stroke_pressure_99_1_each_stroke_99th_percentile:
+  param:
+    C: 173.52985992586846
+    coef0: 784.1340777818755
+    degree: 2
+    gamma: 659.4549276914787
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+stroke_pressure_99_1_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 392.9049000034962
+    coef0: 594.9817241746767
+    degree: 3
+    gamma: 185.67793163707242
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+stroke_pressure_99_1_each_stroke_kurtosis:
+  param:
+    C: 534.7763225796684
+    coef0: 690.8755358100132
+    degree: 1
+    gamma: 395.6389229050177
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_pressure_99_1_each_stroke_max:
+  param:
+    C: 587.1953589248446
+    coef0: 230.49365318602278
+    degree: 1
+    gamma: 229.64620766071766
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+stroke_pressure_99_1_each_stroke_mean:
+  param:
+    C: 498.56317161111735
+    coef0: 309.4337105928629
+    degree: 5
+    gamma: 885.9029507873101
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+stroke_pressure_99_1_each_stroke_median:
+  param:
+    C: 833.3862472710308
+    coef0: 29.65599507522436
+    degree: 1
+    gamma: 957.7278357002967
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_pressure_99_1_each_stroke_min:
+  param:
+    C: 356.21813918945134
+    coef0: 898.9339438179536
+    degree: 4
+    gamma: 797.6135127580757
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_pressure_99_1_each_stroke_skewness:
+  param:
+    C: 493.91849734705863
+    coef0: 303.8738963598276
+    degree: 3
+    gamma: 912.2900349773572
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+stroke_pressure_99_1_each_stroke_standard_deviation:
+  param:
+    C: 388.72238999693786
+    coef0: 858.3705241070693
+    degree: 1
+    gamma: 244.24158688966864
+    kernel: sigmoid
+    random_state: 42
+  score: 0.92
+stroke_pressure_99_1_each_stroke_variance:
+  param:
+    C: 43.809078480153
+    coef0: 619.5766729305292
+    degree: 1
+    gamma: 210.40907043334929
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_pressure_99th_each_stroke_1st_percentile:
+  param:
+    C: 893.3775639013058
+    coef0: 726.8936527761932
+    degree: 3
+    gamma: 739.8457028467662
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+stroke_pressure_99th_each_stroke_99th_percentile:
+  param:
+    C: 433.6629702339284
+    coef0: 867.555624492143
+    degree: 1
+    gamma: 984.0166922366959
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_pressure_99th_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 335.00625679310735
+    coef0: 204.34454266518307
+    degree: 4
+    gamma: 752.0055523859108
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+stroke_pressure_99th_each_stroke_kurtosis:
+  param:
+    C: 502.56436934390007
+    coef0: 877.5186803276938
+    degree: 4
+    gamma: 548.8098786009305
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+stroke_pressure_99th_each_stroke_max:
+  param:
+    C: 233.56137927723907
+    coef0: 176.59010434111553
+    degree: 4
+    gamma: 553.3531635621471
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_pressure_99th_each_stroke_mean:
+  param:
+    C: 388.46645006213913
+    coef0: 154.48180766316491
+    degree: 3
+    gamma: 735.3571210926907
+    kernel: rbf
+    random_state: 42
+  score: 0.6
+stroke_pressure_99th_each_stroke_median:
+  param:
+    C: 937.7687575407981
+    coef0: 397.15288752542256
+    degree: 1
+    gamma: 1.402140249105969
+    kernel: rbf
+    random_state: 42
+  score: 0.5866666666666667
+stroke_pressure_99th_each_stroke_min:
+  param:
+    C: 860.953310927614
+    coef0: 231.06679645205963
+    degree: 5
+    gamma: 285.2406724008493
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_pressure_99th_each_stroke_skewness:
+  param:
+    C: 0.5561595381272895
+    coef0: 627.0376924534423
+    degree: 1
+    gamma: 225.34979009654097
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8666666666666667
+stroke_pressure_99th_each_stroke_standard_deviation:
+  param:
+    C: 34.447413981729284
+    coef0: 445.3288137694844
+    degree: 3
+    gamma: 518.2506454171471
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+stroke_pressure_99th_each_stroke_variance:
+  param:
+    C: 669.595498998427
+    coef0: 0.7816324152000713
+    degree: 3
+    gamma: 198.1045608660363
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+stroke_pressure_kur_each_stroke_1st_percentile:
+  param:
+    C: 200.25169431938673
+    coef0: 254.56042334706683
+    degree: 3
+    gamma: 501.15695725013916
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_pressure_kur_each_stroke_99th_percentile:
+  param:
+    C: 33.63989111395447
+    coef0: 103.94867663610465
+    degree: 1
+    gamma: 981.6309598961817
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_pressure_kur_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 0.20234557423509258
+    coef0: 857.202557330753
+    degree: 3
+    gamma: 782.8907143430064
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_pressure_kur_each_stroke_max:
+  param:
+    C: 0.11768445965223004
+    coef0: 626.9008532645267
+    degree: 4
+    gamma: 677.0245820013691
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5866666666666667
+stroke_pressure_kur_each_stroke_mean:
+  param:
+    C: 791.6837966115592
+    coef0: 377.2733657202908
+    degree: 5
+    gamma: 729.9282550499512
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_pressure_kur_each_stroke_median:
+  param:
+    C: 963.8504914606937
+    coef0: 346.85210678141925
+    degree: 5
+    gamma: 818.0265840442254
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+stroke_pressure_kur_each_stroke_min:
+  param:
+    C: 91.0743825463107
+    coef0: 153.02573407200597
+    degree: 3
+    gamma: 833.854081330982
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_pressure_kur_each_stroke_standard_deviation:
+  param:
+    C: 41.06254200610308
+    coef0: 829.2411915596587
+    degree: 4
+    gamma: 521.9574860441572
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+stroke_pressure_kur_each_stroke_variance:
+  param:
+    C: 173.0221170053087
+    coef0: 53.077072090824984
+    degree: 1
+    gamma: 853.9862528216892
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+stroke_pressure_max_each_stroke_1st_percentile:
+  param:
+    C: 836.4763130013874
+    coef0: 623.4749239278618
+    degree: 2
+    gamma: 705.0988373552535
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+stroke_pressure_max_each_stroke_99th_percentile:
+  param:
+    C: 987.2868464009441
+    coef0: 861.157870997077
+    degree: 4
+    gamma: 897.6014461697182
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_pressure_max_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 202.17914036695433
+    coef0: 127.79484948207039
+    degree: 5
+    gamma: 462.83145744219837
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_pressure_max_each_stroke_kurtosis:
+  param:
+    C: 512.7210934226175
+    coef0: 879.3951674438608
+    degree: 4
+    gamma: 450.49854853538193
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+stroke_pressure_max_each_stroke_max:
+  param:
+    C: 602.9725427322473
+    coef0: 146.14794104257845
+    degree: 3
+    gamma: 467.1715808238547
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+stroke_pressure_max_each_stroke_mean:
+  param:
+    C: 51.51521051090556
+    coef0: 155.49000564924302
+    degree: 3
+    gamma: 771.2348682549075
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+stroke_pressure_max_each_stroke_median:
+  param:
+    C: 929.877423926708
+    coef0: 14.880662127128518
+    degree: 5
+    gamma: 997.0079352274956
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_pressure_max_each_stroke_min:
+  param:
+    C: 317.61280923692897
+    coef0: 753.6745166026577
+    degree: 3
+    gamma: 832.7804520692073
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+stroke_pressure_max_each_stroke_skewness:
+  param:
+    C: 997.8275652921111
+    coef0: 409.14031959057417
+    degree: 5
+    gamma: 984.8039973173287
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+stroke_pressure_max_each_stroke_standard_deviation:
+  param:
+    C: 875.6554361628579
+    coef0: 193.1221165667573
+    degree: 1
+    gamma: 924.6363747697826
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_pressure_max_each_stroke_variance:
+  param:
+    C: 704.0342858154747
+    coef0: 199.52507499823855
+    degree: 5
+    gamma: 472.60228127226054
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+stroke_pressure_mean_each_stroke_1st_percentile:
+  param:
+    C: 151.43999680070382
+    coef0: 246.89031193134932
+    degree: 3
+    gamma: 506.3073021002082
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+stroke_pressure_mean_each_stroke_99th_percentile:
+  param:
+    C: 800.451179786873
+    coef0: 979.5793697174819
+    degree: 3
+    gamma: 432.9624795732924
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_pressure_mean_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 835.3749035120703
+    coef0: 802.7703668363663
+    degree: 5
+    gamma: 321.66022316064794
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+stroke_pressure_mean_each_stroke_kurtosis:
+  param:
+    C: 673.584921672963
+    coef0: 394.220690209341
+    degree: 3
+    gamma: 763.4751480194972
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_pressure_mean_each_stroke_max:
+  param:
+    C: 790.2828192685829
+    coef0: 818.1551588363279
+    degree: 5
+    gamma: 727.5623674585788
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+stroke_pressure_mean_each_stroke_mean:
+  param:
+    C: 0.5737630604519792
+    coef0: 874.6451019629867
+    degree: 3
+    gamma: 52.21715052640975
+    kernel: rbf
+    random_state: 42
+  score: 0.7066666666666667
+stroke_pressure_mean_each_stroke_median:
+  param:
+    C: 764.5345851423548
+    coef0: 978.7343641028773
+    degree: 2
+    gamma: 1.7784751515787285
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+stroke_pressure_mean_each_stroke_min:
+  param:
+    C: 249.29905617454867
+    coef0: 816.6588708468755
+    degree: 4
+    gamma: 975.8592196850273
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+stroke_pressure_mean_each_stroke_skewness:
+  param:
+    C: 724.1785808214948
+    coef0: 402.1790978778372
+    degree: 2
+    gamma: 919.3027737924591
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+stroke_pressure_mean_each_stroke_standard_deviation:
+  param:
+    C: 35.3735316668629
+    coef0: 883.9607501494264
+    degree: 2
+    gamma: 41.29479899628054
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+stroke_pressure_mean_each_stroke_variance:
+  param:
+    C: 32.87885624817208
+    coef0: 820.7903741600168
+    degree: 4
+    gamma: 436.0526596128129
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_pressure_median_each_stroke_1st_percentile:
+  param:
+    C: 323.6038354448613
+    coef0: 401.41186982008276
+    degree: 5
+    gamma: 356.9856608316637
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_pressure_median_each_stroke_99th_percentile:
+  param:
+    C: 979.0147266265714
+    coef0: 499.0948504136524
+    degree: 5
+    gamma: 545.5284783815308
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+stroke_pressure_median_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 941.3600892039398
+    coef0: 47.078215920343276
+    degree: 5
+    gamma: 728.9964288843232
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_pressure_median_each_stroke_kurtosis:
+  param:
+    C: 400.8833833235976
+    coef0: 477.9380161473446
+    degree: 4
+    gamma: 310.92628873365527
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_pressure_median_each_stroke_max:
+  param:
+    C: 436.64647671735077
+    coef0: 550.3739284597932
+    degree: 1
+    gamma: 839.2967987141233
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_pressure_median_each_stroke_mean:
+  param:
+    C: 935.2764449123465
+    coef0: 941.3012316710698
+    degree: 4
+    gamma: 0.34330779157698493
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+stroke_pressure_median_each_stroke_median:
+  param:
+    C: 374.86352169251984
+    coef0: 633.1323462667394
+    degree: 5
+    gamma: 2.7137078710793077
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+stroke_pressure_median_each_stroke_min:
+  param:
+    C: 727.8177920003332
+    coef0: 347.5322202077828
+    degree: 5
+    gamma: 321.8277237568912
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+stroke_pressure_median_each_stroke_skewness:
+  param:
+    C: 186.47685148377428
+    coef0: 870.8970970437213
+    degree: 3
+    gamma: 362.77375968998905
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+stroke_pressure_median_each_stroke_standard_deviation:
+  param:
+    C: 800.7404781949534
+    coef0: 724.0070508470199
+    degree: 3
+    gamma: 392.12438605164033
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_pressure_median_each_stroke_variance:
+  param:
+    C: 257.9827904358467
+    coef0: 381.317710502681
+    degree: 4
+    gamma: 54.393061695386294
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+stroke_pressure_min_each_stroke_1st_percentile:
+  param:
+    C: 905.8186286683236
+    coef0: 614.675069950564
+    degree: 4
+    gamma: 758.762174334116
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8133333333333334
+stroke_pressure_min_each_stroke_99th_percentile:
+  param:
+    C: 261.5708679818511
+    coef0: 876.0446105826006
+    degree: 4
+    gamma: 9.22585593208893
+    kernel: rbf
+    random_state: 42
+  score: 0.7333333333333333
+stroke_pressure_min_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 949.8645928844034
+    coef0: 825.8996484031757
+    degree: 1
+    gamma: 264.77863874523683
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+stroke_pressure_min_each_stroke_kurtosis:
+  param:
+    C: 445.53052875078106
+    coef0: 497.8022326607525
+    degree: 1
+    gamma: 20.02948487630788
+    kernel: rbf
+    random_state: 42
+  score: 0.5733333333333334
+stroke_pressure_min_each_stroke_max:
+  param:
+    C: 661.7029585923266
+    coef0: 128.6957138010995
+    degree: 3
+    gamma: 1.0040209133079654
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+stroke_pressure_min_each_stroke_mean:
+  param:
+    C: 818.129594840088
+    coef0: 291.5783505253847
+    degree: 1
+    gamma: 543.7570272352972
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_pressure_min_each_stroke_median:
+  param:
+    C: 809.2179642838184
+    coef0: 489.6331659006257
+    degree: 3
+    gamma: 669.8920929866656
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_pressure_min_each_stroke_min:
+  param:
+    C: 917.4302627302122
+    coef0: 42.93002420558999
+    degree: 2
+    gamma: 786.5041683880319
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+stroke_pressure_min_each_stroke_skewness:
+  param:
+    C: 442.88789212582185
+    coef0: 554.7499406272809
+    degree: 4
+    gamma: 459.9202168850037
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+stroke_pressure_min_each_stroke_standard_deviation:
+  param:
+    C: 514.2063267638015
+    coef0: 25.954857336455248
+    degree: 5
+    gamma: 338.70738844203413
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+stroke_pressure_min_each_stroke_variance:
+  param:
+    C: 3.911063334133452
+    coef0: 820.6006060785644
+    degree: 3
+    gamma: 39.27835739362874
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+stroke_pressure_ske_each_stroke_1st_percentile:
+  param:
+    C: 2.352702789567715
+    coef0: 562.0182892151814
+    degree: 4
+    gamma: 981.5766663924409
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5733333333333334
+stroke_pressure_ske_each_stroke_99th_percentile:
+  param:
+    C: 954.7155394282407
+    coef0: 128.96549644722174
+    degree: 1
+    gamma: 449.5084677482492
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+stroke_pressure_ske_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 473.23432699026057
+    coef0: 508.4432430234434
+    degree: 1
+    gamma: 841.7848038085709
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+stroke_pressure_ske_each_stroke_max:
+  param:
+    C: 664.5120848553197
+    coef0: 216.71261295078372
+    degree: 2
+    gamma: 844.1349888493353
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+stroke_pressure_ske_each_stroke_mean:
+  param:
+    C: 986.255816940434
+    coef0: 627.5902548487152
+    degree: 1
+    gamma: 184.3891670490135
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+stroke_pressure_ske_each_stroke_median:
+  param:
+    C: 716.2724940316047
+    coef0: 548.3719707104394
+    degree: 1
+    gamma: 477.8846745686594
+    kernel: rbf
+    random_state: 42
+  score: 0.5733333333333334
+stroke_pressure_ske_each_stroke_min:
+  param:
+    C: 626.5533985742702
+    coef0: 908.9929323785678
+    degree: 1
+    gamma: 224.9915569734407
+    kernel: sigmoid
+    random_state: 42
+  score: 0.56
+stroke_pressure_ske_each_stroke_standard_deviation:
+  param:
+    C: 656.9209228528282
+    coef0: 466.9847923069215
+    degree: 5
+    gamma: 693.3248396174231
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_pressure_ske_each_stroke_variance:
+  param:
+    C: 288.900771929185
+    coef0: 5.052252737589697
+    degree: 1
+    gamma: 399.79072864662663
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5866666666666667
+stroke_pressure_std_each_stroke_1st_percentile:
+  param:
+    C: 307.49023003685085
+    coef0: 36.888346220460235
+    degree: 2
+    gamma: 589.4062476497718
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+stroke_pressure_std_each_stroke_99th_percentile:
+  param:
+    C: 541.0885107255089
+    coef0: 143.822358925387
+    degree: 3
+    gamma: 727.8040203626332
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+stroke_pressure_std_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 611.6088455108143
+    coef0: 85.6440384419999
+    degree: 2
+    gamma: 845.9752420754465
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+stroke_pressure_std_each_stroke_kurtosis:
+  param:
+    C: 985.6783078366581
+    coef0: 894.8814693719764
+    degree: 5
+    gamma: 982.8757493492876
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+stroke_pressure_std_each_stroke_max:
+  param:
+    C: 943.421273242835
+    coef0: 955.0970303266974
+    degree: 2
+    gamma: 402.59126364243286
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+stroke_pressure_std_each_stroke_mean:
+  param:
+    C: 867.628145410579
+    coef0: 11.139422593802095
+    degree: 3
+    gamma: 418.9829460988494
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_pressure_std_each_stroke_median:
+  param:
+    C: 454.95198651242737
+    coef0: 36.935776921085775
+    degree: 1
+    gamma: 124.83707793005804
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+stroke_pressure_std_each_stroke_min:
+  param:
+    C: 855.2896250869644
+    coef0: 27.106770197960355
+    degree: 2
+    gamma: 501.53083435329614
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_pressure_std_each_stroke_skewness:
+  param:
+    C: 586.1363069052513
+    coef0: 47.32852653045699
+    degree: 3
+    gamma: 809.862058257978
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_pressure_std_each_stroke_standard_deviation:
+  param:
+    C: 31.177725888100166
+    coef0: 801.3199928445879
+    degree: 5
+    gamma: 23.277951897251384
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+stroke_pressure_std_each_stroke_variance:
+  param:
+    C: 146.8473987333696
+    coef0: 846.5268222127129
+    degree: 1
+    gamma: 495.3355555766023
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_pressure_variance_each_stroke_1st_percentile:
+  param:
+    C: 77.15598412273323
+    coef0: 302.6908099694872
+    degree: 5
+    gamma: 441.1093870387984
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+stroke_pressure_variance_each_stroke_99th_percentile:
+  param:
+    C: 167.96744661073654
+    coef0: 327.2694593477754
+    degree: 2
+    gamma: 672.7607939972388
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_pressure_variance_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 505.9623027012928
+    coef0: 900.7763149365929
+    degree: 3
+    gamma: 255.21290106733784
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+stroke_pressure_variance_each_stroke_kurtosis:
+  param:
+    C: 0.4111500835260833
+    coef0: 873.2333448057074
+    degree: 3
+    gamma: 940.9982251260727
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+stroke_pressure_variance_each_stroke_max:
+  param:
+    C: 181.86025932167036
+    coef0: 196.3331511883429
+    degree: 4
+    gamma: 576.8755181264062
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+stroke_pressure_variance_each_stroke_mean:
+  param:
+    C: 645.3530994902524
+    coef0: 132.00265097214682
+    degree: 1
+    gamma: 472.18935226575843
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_pressure_variance_each_stroke_median:
+  param:
+    C: 605.0407837388891
+    coef0: 168.15253984482382
+    degree: 5
+    gamma: 731.225723931622
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+stroke_pressure_variance_each_stroke_min:
+  param:
+    C: 459.62201474903634
+    coef0: 25.14146470975124
+    degree: 2
+    gamma: 613.9687825845263
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_pressure_variance_each_stroke_skewness:
+  param:
+    C: 248.00161997529568
+    coef0: 998.965226253122
+    degree: 3
+    gamma: 927.9315480638844
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_pressure_variance_each_stroke_standard_deviation:
+  param:
+    C: 500.3262605690145
+    coef0: 797.9734073636345
+    degree: 3
+    gamma: 383.3855733575597
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_pressure_variance_each_stroke_variance:
+  param:
+    C: 626.5316500249767
+    coef0: 140.02430767296147
+    degree: 4
+    gamma: 902.7585832632351
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_vel_1st_each_stroke_99th_percentile:
+  param:
+    C: 835.4269646527554
+    coef0: 191.62212864064648
+    degree: 5
+    gamma: 795.0974396949899
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+stroke_vel_1st_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 0.6596210667615026
+    coef0: 188.88005569008533
+    degree: 5
+    gamma: 885.5635918760125
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+stroke_vel_1st_each_stroke_max:
+  param:
+    C: 728.5257435372879
+    coef0: 240.95507665314972
+    degree: 2
+    gamma: 867.2471873962406
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_vel_1st_each_stroke_mean:
+  param:
+    C: 961.8497500553088
+    coef0: 4.532449603653781
+    degree: 1
+    gamma: 795.2120666151618
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_vel_1st_each_stroke_median:
+  param:
+    C: 272.3122023084779
+    coef0: 53.376088273562175
+    degree: 5
+    gamma: 177.48557878342646
+    kernel: rbf
+    random_state: 42
+  score: 0.5466666666666666
+stroke_vel_1st_each_stroke_standard_deviation:
+  param:
+    C: 204.7375703795306
+    coef0: 103.83639345348601
+    degree: 5
+    gamma: 850.6004370986307
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_vel_1st_each_stroke_variance:
+  param:
+    C: 567.6693962295188
+    coef0: 181.42844894378925
+    degree: 2
+    gamma: 628.7565728346876
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+stroke_vel_99_1_each_stroke_1st_percentile:
+  param:
+    C: 57.82417329099678
+    coef0: 544.7033219904504
+    degree: 4
+    gamma: 3.260816671969998
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+stroke_vel_99_1_each_stroke_99th_percentile:
+  param:
+    C: 350.4315996812359
+    coef0: 334.04356973255295
+    degree: 4
+    gamma: 797.2744201514911
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_vel_99_1_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 776.3834196790912
+    coef0: 434.25268592796965
+    degree: 2
+    gamma: 866.1889704670041
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+stroke_vel_99_1_each_stroke_kurtosis:
+  param:
+    C: 98.93171873996195
+    coef0: 677.2407569309923
+    degree: 3
+    gamma: 870.9190387965343
+    kernel: rbf
+    random_state: 42
+  score: 0.5866666666666667
+stroke_vel_99_1_each_stroke_max:
+  param:
+    C: 670.7416103454208
+    coef0: 350.4696657898235
+    degree: 1
+    gamma: 853.1404772850615
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+stroke_vel_99_1_each_stroke_mean:
+  param:
+    C: 298.81355414238516
+    coef0: 46.39156574096906
+    degree: 3
+    gamma: 26.190468733887684
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+stroke_vel_99_1_each_stroke_median:
+  param:
+    C: 23.99343376634537
+    coef0: 867.7287943369669
+    degree: 4
+    gamma: 883.1614330942068
+    kernel: rbf
+    random_state: 42
+  score: 0.6133333333333333
+stroke_vel_99_1_each_stroke_min:
+  param:
+    C: 984.7530076338472
+    coef0: 401.1110131629925
+    degree: 5
+    gamma: 30.519345645462554
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+stroke_vel_99_1_each_stroke_skewness:
+  param:
+    C: 959.1177607537041
+    coef0: 794.7098311328155
+    degree: 5
+    gamma: 230.50417469628883
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_vel_99_1_each_stroke_standard_deviation:
+  param:
+    C: 841.2695724857676
+    coef0: 62.02552693217293
+    degree: 5
+    gamma: 911.3875722967816
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+stroke_vel_99_1_each_stroke_variance:
+  param:
+    C: 519.9037723730027
+    coef0: 208.46937790689466
+    degree: 5
+    gamma: 307.70921942100904
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_vel_99th_each_stroke_1st_percentile:
+  param:
+    C: 811.8922255083731
+    coef0: 616.6262558190394
+    degree: 1
+    gamma: 78.73093920115892
+    kernel: rbf
+    random_state: 42
+  score: 0.6133333333333333
+stroke_vel_99th_each_stroke_99th_percentile:
+  param:
+    C: 0.12779815134014783
+    coef0: 330.5268604865135
+    degree: 4
+    gamma: 701.4599208476301
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+stroke_vel_99th_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 885.2740278865979
+    coef0: 56.28567366387983
+    degree: 3
+    gamma: 210.00778573174088
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_vel_99th_each_stroke_kurtosis:
+  param:
+    C: 203.3357281848366
+    coef0: 623.8919464492038
+    degree: 4
+    gamma: 91.72689032765453
+    kernel: rbf
+    random_state: 42
+  score: 0.5866666666666667
+stroke_vel_99th_each_stroke_max:
+  param:
+    C: 328.3624439189521
+    coef0: 418.98734031241906
+    degree: 1
+    gamma: 19.70544238241485
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+stroke_vel_99th_each_stroke_mean:
+  param:
+    C: 578.928407245752
+    coef0: 520.8000677765799
+    degree: 1
+    gamma: 119.19870297692066
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+stroke_vel_99th_each_stroke_median:
+  param:
+    C: 58.193678420912335
+    coef0: 817.0861422186742
+    degree: 3
+    gamma: 0.045671320246640335
+    kernel: rbf
+    random_state: 42
+  score: 0.6
+stroke_vel_99th_each_stroke_min:
+  param:
+    C: 130.678945809928
+    coef0: 487.56865834435604
+    degree: 4
+    gamma: 268.0141321203789
+    kernel: rbf
+    random_state: 42
+  score: 0.5733333333333334
+stroke_vel_99th_each_stroke_skewness:
+  param:
+    C: 336.73848270783617
+    coef0: 633.9351238630937
+    degree: 3
+    gamma: 370.7425244598443
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+stroke_vel_99th_each_stroke_standard_deviation:
+  param:
+    C: 630.6321186459038
+    coef0: 642.6478378561688
+    degree: 1
+    gamma: 218.88328775284762
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+stroke_vel_99th_each_stroke_variance:
+  param:
+    C: 878.7180256474185
+    coef0: 381.08787487696225
+    degree: 1
+    gamma: 968.3088005627316
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+stroke_vel_kur_each_stroke_1st_percentile:
+  param:
+    C: 316.4645227059223
+    coef0: 889.7361658638052
+    degree: 1
+    gamma: 546.1868313298821
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_vel_kur_each_stroke_99th_percentile:
+  param:
+    C: 365.5713649682509
+    coef0: 606.6345356378725
+    degree: 3
+    gamma: 188.79644979120454
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+stroke_vel_kur_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 88.95110266630479
+    coef0: 548.4152762793259
+    degree: 3
+    gamma: 305.54874419154436
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+stroke_vel_kur_each_stroke_max:
+  param:
+    C: 220.7120306224116
+    coef0: 170.5273672707796
+    degree: 5
+    gamma: 737.9036279905145
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_vel_kur_each_stroke_mean:
+  param:
+    C: 908.0288753708251
+    coef0: 617.1623625975396
+    degree: 3
+    gamma: 168.2871883310958
+    kernel: rbf
+    random_state: 42
+  score: 0.7066666666666667
+stroke_vel_kur_each_stroke_median:
+  param:
+    C: 56.18746148522209
+    coef0: 392.26581708218043
+    degree: 5
+    gamma: 428.52793063793627
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_vel_kur_each_stroke_min:
+  param:
+    C: 0.8803751819291159
+    coef0: 957.65449348674
+    degree: 4
+    gamma: 584.7940539968961
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+stroke_vel_kur_each_stroke_standard_deviation:
+  param:
+    C: 21.765002887173846
+    coef0: 493.0287531213718
+    degree: 3
+    gamma: 163.80770197222716
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+stroke_vel_kur_each_stroke_variance:
+  param:
+    C: 239.26512404589127
+    coef0: 171.19986033231197
+    degree: 1
+    gamma: 105.20638548722516
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+stroke_vel_max_each_stroke_1st_percentile:
+  param:
+    C: 570.6569142297287
+    coef0: 48.397665529027705
+    degree: 5
+    gamma: 627.872849504839
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_vel_max_each_stroke_99th_percentile:
+  param:
+    C: 980.1947586461815
+    coef0: 937.6771801194839
+    degree: 4
+    gamma: 234.41998359961826
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+stroke_vel_max_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 900.4851217546818
+    coef0: 148.70100384365355
+    degree: 1
+    gamma: 714.1709607365434
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+stroke_vel_max_each_stroke_kurtosis:
+  param:
+    C: 24.79387566224125
+    coef0: 930.983980076948
+    degree: 3
+    gamma: 145.71316216546134
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+stroke_vel_max_each_stroke_max:
+  param:
+    C: 109.81834277060452
+    coef0: 557.9555024672107
+    degree: 1
+    gamma: 140.47249292657867
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+stroke_vel_max_each_stroke_mean:
+  param:
+    C: 94.49783034725323
+    coef0: 866.771426991924
+    degree: 3
+    gamma: 514.0919215160177
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+stroke_vel_max_each_stroke_median:
+  param:
+    C: 391.51937188882596
+    coef0: 355.4930068376994
+    degree: 2
+    gamma: 507.0660470198167
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+stroke_vel_max_each_stroke_min:
+  param:
+    C: 471.6945003778696
+    coef0: 144.62493031853614
+    degree: 5
+    gamma: 649.7484392608906
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+stroke_vel_max_each_stroke_skewness:
+  param:
+    C: 550.6115587882294
+    coef0: 935.4783301679714
+    degree: 4
+    gamma: 927.3076889079005
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_vel_max_each_stroke_standard_deviation:
+  param:
+    C: 509.0933720764646
+    coef0: 182.88535575553635
+    degree: 4
+    gamma: 747.5258163253969
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+stroke_vel_max_each_stroke_variance:
+  param:
+    C: 248.11946972492404
+    coef0: 409.7606271160331
+    degree: 5
+    gamma: 974.3564219802851
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+stroke_vel_mean_each_stroke_1st_percentile:
+  param:
+    C: 302.8301915876873
+    coef0: 236.47803673829685
+    degree: 3
+    gamma: 944.5689272562961
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+stroke_vel_mean_each_stroke_99th_percentile:
+  param:
+    C: 625.3576145389319
+    coef0: 33.51671669886841
+    degree: 4
+    gamma: 929.5975171547196
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_vel_mean_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 0.2944833653368448
+    coef0: 257.8426863738294
+    degree: 3
+    gamma: 831.2860792303813
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8133333333333334
+stroke_vel_mean_each_stroke_kurtosis:
+  param:
+    C: 706.1729144183772
+    coef0: 869.7402744708223
+    degree: 2
+    gamma: 442.01474450936274
+    kernel: rbf
+    random_state: 42
+  score: 0.5866666666666667
+stroke_vel_mean_each_stroke_max:
+  param:
+    C: 922.1405598336976
+    coef0: 813.1129438221482
+    degree: 3
+    gamma: 0.6079221662438794
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+stroke_vel_mean_each_stroke_mean:
+  param:
+    C: 913.6551825510836
+    coef0: 732.1084602168098
+    degree: 1
+    gamma: 756.0198135793117
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+stroke_vel_mean_each_stroke_median:
+  param:
+    C: 811.5832983986251
+    coef0: 357.34793001757765
+    degree: 4
+    gamma: 732.2109531229715
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_vel_mean_each_stroke_min:
+  param:
+    C: 15.071416179567045
+    coef0: 169.9980314127244
+    degree: 4
+    gamma: 369.68333761973514
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_vel_mean_each_stroke_skewness:
+  param:
+    C: 368.79562454647737
+    coef0: 891.2656660202595
+    degree: 2
+    gamma: 253.50537807448768
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8133333333333334
+stroke_vel_mean_each_stroke_standard_deviation:
+  param:
+    C: 781.1547506102089
+    coef0: 78.77283296002781
+    degree: 1
+    gamma: 25.04160129205223
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+stroke_vel_mean_each_stroke_variance:
+  param:
+    C: 415.8108342357956
+    coef0: 547.8421911085272
+    degree: 3
+    gamma: 994.6007234420904
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+stroke_vel_median_each_stroke_1st_percentile:
+  param:
+    C: 144.08646900935452
+    coef0: 45.32649627277578
+    degree: 1
+    gamma: 799.9047192261214
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+stroke_vel_median_each_stroke_99th_percentile:
+  param:
+    C: 0.5461886190641074
+    coef0: 196.04399903892704
+    degree: 3
+    gamma: 614.6070170880325
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+stroke_vel_median_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 1.0322769995431855
+    coef0: 136.75279152593214
+    degree: 3
+    gamma: 34.205549986946735
+    kernel: rbf
+    random_state: 42
+  score: 0.7333333333333333
+stroke_vel_median_each_stroke_kurtosis:
+  param:
+    C: 434.92522120330625
+    coef0: 644.7899380618232
+    degree: 3
+    gamma: 13.762791843488623
+    kernel: rbf
+    random_state: 42
+  score: 0.5866666666666667
+stroke_vel_median_each_stroke_max:
+  param:
+    C: 535.3930956767016
+    coef0: 223.70932430995816
+    degree: 3
+    gamma: 918.420229029233
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_vel_median_each_stroke_mean:
+  param:
+    C: 538.3302877379654
+    coef0: 456.1752523379504
+    degree: 5
+    gamma: 687.0937096173797
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+stroke_vel_median_each_stroke_median:
+  param:
+    C: 0.15020942024312944
+    coef0: 540.5763280126581
+    degree: 5
+    gamma: 848.6311968247597
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_vel_median_each_stroke_min:
+  param:
+    C: 0.4177607341676618
+    coef0: 256.56346681430915
+    degree: 4
+    gamma: 929.6430880940688
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+stroke_vel_median_each_stroke_skewness:
+  param:
+    C: 952.5564830289454
+    coef0: 807.2342682734271
+    degree: 3
+    gamma: 168.5197227976949
+    kernel: sigmoid
+    random_state: 42
+  score: 0.9066666666666666
+stroke_vel_median_each_stroke_standard_deviation:
+  param:
+    C: 298.0987702485626
+    coef0: 158.85931873600703
+    degree: 5
+    gamma: 877.7636605218929
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+stroke_vel_median_each_stroke_variance:
+  param:
+    C: 20.850764897761433
+    coef0: 367.9181540758714
+    degree: 5
+    gamma: 876.2217335291442
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8533333333333334
+stroke_vel_min_each_stroke_99th_percentile:
+  param:
+    C: 515.2106550104664
+    coef0: 672.9264104389872
+    degree: 1
+    gamma: 945.815383767827
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5866666666666667
+stroke_vel_min_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 950.5772279877094
+    coef0: 680.9873772503199
+    degree: 3
+    gamma: 957.0800052160408
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5866666666666667
+stroke_vel_min_each_stroke_max:
+  param:
+    C: 803.1622449171931
+    coef0: 786.9795531131447
+    degree: 1
+    gamma: 939.1480435716197
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+stroke_vel_min_each_stroke_mean:
+  param:
+    C: 125.24344510983428
+    coef0: 496.4208599846793
+    degree: 2
+    gamma: 27.25448160637588
+    kernel: rbf
+    random_state: 42
+  score: 0.7066666666666667
+stroke_vel_min_each_stroke_standard_deviation:
+  param:
+    C: 520.7895356845829
+    coef0: 957.9564231408184
+    degree: 3
+    gamma: 73.32419547539834
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+stroke_vel_min_each_stroke_variance:
+  param:
+    C: 814.5160880417992
+    coef0: 677.3938313762665
+    degree: 2
+    gamma: 539.433170917642
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+stroke_vel_ske_each_stroke_1st_percentile:
+  param:
+    C: 148.772303549768
+    coef0: 56.79512841873105
+    degree: 3
+    gamma: 497.227621902026
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+stroke_vel_ske_each_stroke_99th_percentile:
+  param:
+    C: 709.6148710979245
+    coef0: 595.4714298231339
+    degree: 3
+    gamma: 808.5722229637549
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_vel_ske_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 908.821262372703
+    coef0: 293.7660563186111
+    degree: 4
+    gamma: 683.7390595771391
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_vel_ske_each_stroke_max:
+  param:
+    C: 31.78810287696422
+    coef0: 170.94349051380985
+    degree: 2
+    gamma: 705.2766594077924
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5466666666666666
+stroke_vel_ske_each_stroke_mean:
+  param:
+    C: 920.5680536167541
+    coef0: 511.6768012589783
+    degree: 2
+    gamma: 861.6722259032001
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8666666666666667
+stroke_vel_ske_each_stroke_median:
+  param:
+    C: 343.2819314816612
+    coef0: 999.3622788534589
+    degree: 3
+    gamma: 382.4899067039448
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+stroke_vel_ske_each_stroke_min:
+  param:
+    C: 39.639837155785585
+    coef0: 124.06156382743733
+    degree: 4
+    gamma: 62.802388987882885
+    kernel: rbf
+    random_state: 42
+  score: 0.7333333333333333
+stroke_vel_ske_each_stroke_standard_deviation:
+  param:
+    C: 180.94120267033787
+    coef0: 212.70901150946733
+    degree: 5
+    gamma: 930.4403407161233
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_vel_ske_each_stroke_variance:
+  param:
+    C: 159.82047166690762
+    coef0: 131.12701487575598
+    degree: 5
+    gamma: 801.8763348625938
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_vel_std_each_stroke_1st_percentile:
+  param:
+    C: 456.1654405778652
+    coef0: 419.4610308938118
+    degree: 3
+    gamma: 664.1953788175026
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+stroke_vel_std_each_stroke_99th_percentile:
+  param:
+    C: 65.37414448140774
+    coef0: 325.0255811397795
+    degree: 4
+    gamma: 19.654610363247194
+    kernel: rbf
+    random_state: 42
+  score: 0.7333333333333333
+stroke_vel_std_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 365.86545602618486
+    coef0: 257.5100369011898
+    degree: 5
+    gamma: 2.5440179111879457
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+stroke_vel_std_each_stroke_kurtosis:
+  param:
+    C: 645.4563469162501
+    coef0: 37.50300057970479
+    degree: 5
+    gamma: 516.2535975149112
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+stroke_vel_std_each_stroke_max:
+  param:
+    C: 464.25409461578624
+    coef0: 103.29773387567704
+    degree: 3
+    gamma: 14.98857268774501
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+stroke_vel_std_each_stroke_mean:
+  param:
+    C: 691.2746254644716
+    coef0: 705.4172118053768
+    degree: 5
+    gamma: 176.1325566211248
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+stroke_vel_std_each_stroke_median:
+  param:
+    C: 674.6426904863373
+    coef0: 570.9318206877446
+    degree: 4
+    gamma: 327.63158313337226
+    kernel: sigmoid
+    random_state: 42
+  score: 0.84
+stroke_vel_std_each_stroke_min:
+  param:
+    C: 120.96574241773045
+    coef0: 197.64823150667712
+    degree: 4
+    gamma: 406.33634083618847
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_vel_std_each_stroke_skewness:
+  param:
+    C: 669.5497082832374
+    coef0: 560.8396361505801
+    degree: 1
+    gamma: 236.84420099649628
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_vel_std_each_stroke_standard_deviation:
+  param:
+    C: 852.0146416645496
+    coef0: 181.581131502275
+    degree: 3
+    gamma: 940.9464773179976
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+stroke_vel_std_each_stroke_variance:
+  param:
+    C: 440.7965954128618
+    coef0: 153.44285216893954
+    degree: 2
+    gamma: 870.6811138197188
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+stroke_vel_variance_each_stroke_1st_percentile:
+  param:
+    C: 340.61436072686627
+    coef0: 85.92978939753804
+    degree: 5
+    gamma: 435.0573275521113
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+stroke_vel_variance_each_stroke_99th_percentile:
+  param:
+    C: 949.3411673188574
+    coef0: 390.0071990520666
+    degree: 3
+    gamma: 14.95713955876397
+    kernel: rbf
+    random_state: 42
+  score: 0.7466666666666667
+stroke_vel_variance_each_stroke_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 0.3985350409640489
+    coef0: 316.2542150274146
+    degree: 4
+    gamma: 170.05346134025368
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+stroke_vel_variance_each_stroke_kurtosis:
+  param:
+    C: 149.5873673559148
+    coef0: 740.7889346268903
+    degree: 3
+    gamma: 627.5670379940628
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8133333333333334
+stroke_vel_variance_each_stroke_max:
+  param:
+    C: 950.1265864101465
+    coef0: 687.8839844896601
+    degree: 5
+    gamma: 13.912796174461175
+    kernel: rbf
+    random_state: 42
+  score: 0.7466666666666667
+stroke_vel_variance_each_stroke_mean:
+  param:
+    C: 655.1340246188753
+    coef0: 379.1435490986272
+    degree: 4
+    gamma: 24.415982773046263
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+stroke_vel_variance_each_stroke_median:
+  param:
+    C: 536.871466580126
+    coef0: 964.9063282060686
+    degree: 5
+    gamma: 367.3730899830306
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+stroke_vel_variance_each_stroke_min:
+  param:
+    C: 229.71676150297466
+    coef0: 15.890444081941244
+    degree: 5
+    gamma: 52.11802579089448
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+stroke_vel_variance_each_stroke_skewness:
+  param:
+    C: 30.100035461604513
+    coef0: 279.43574226981565
+    degree: 1
+    gamma: 612.4445110060399
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+stroke_vel_variance_each_stroke_standard_deviation:
+  param:
+    C: 86.24602190129838
+    coef0: 204.1229788404178
+    degree: 3
+    gamma: 950.6068871102932
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+stroke_vel_variance_each_stroke_variance:
+  param:
+    C: 790.8405238328039
+    coef0: 922.1660794804205
+    degree: 3
+    gamma: 0.6090122768643931
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+teager_kaiser_energy(displacement,1):
+  param:
+    C: 417.84443486329576
+    coef0: 411.3800572179973
+    degree: 5
+    gamma: 700.6755000556375
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+teager_kaiser_energy(velocity,1):
+  param:
+    C: 997.5996454057055
+    coef0: 956.9443047269685
+    degree: 1
+    gamma: 303.4223891560336
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8533333333333334
+teager_kaiser_energy(x,1):
+  param:
+    C: 621.7348760191962
+    coef0: 139.15942134201902
+    degree: 5
+    gamma: 200.65847222428025
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+teager_kaiser_energy(y,1):
+  param:
+    C: 158.30735816848014
+    coef0: 82.01118590152336
+    degree: 4
+    gamma: 2.6643066791383134
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+velocity_99th_percentile:
+  param:
+    C: 0.17533577580304183
+    coef0: 824.9748814734603
+    degree: 1
+    gamma: 378.42357410129375
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+velocity_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 350.5714747868554
+    coef0: 433.12631381661504
+    degree: 2
+    gamma: 213.88671126446656
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+velocity_kurtosis:
+  param:
+    C: 511.3057211799646
+    coef0: 791.8482435788455
+    degree: 2
+    gamma: 15.636508065371185
+    kernel: rbf
+    random_state: 42
+  score: 0.6266666666666667
+velocity_max:
+  param:
+    C: 304.7414099175036
+    coef0: 224.36917368062402
+    degree: 3
+    gamma: 441.0865254048486
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+velocity_mean:
+  param:
+    C: 88.52517236089301
+    coef0: 387.55893247380857
+    degree: 2
+    gamma: 711.5430187889478
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+velocity_median:
+  param:
+    C: 274.2001918756214
+    coef0: 4.239666007602633
+    degree: 3
+    gamma: 903.1734979092641
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+velocity_min:
+  param:
+    C: 369.52218431395124
+    coef0: 214.88465267757974
+    degree: 1
+    gamma: 871.9993678396943
+    kernel: rbf
+    random_state: 42
+  score: 0.5466666666666666
+velocity_skewness:
+  param:
+    C: 937.8482531138435
+    coef0: 124.16024396887663
+    degree: 4
+    gamma: 907.8510058240355
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+velocity_standard_deviation:
+  param:
+    C: 486.7033601899217
+    coef0: 806.8162331447892
+    degree: 3
+    gamma: 915.4865129854034
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+velocity_variance:
+  param:
+    C: 197.00270356120836
+    coef0: 783.7797731885344
+    degree: 2
+    gamma: 979.0697439046853
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+x_1st_percentile:
+  param:
+    C: 459.10272553780135
+    coef0: 534.0313589097943
+    degree: 1
+    gamma: 933.2565359355374
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+x_99th_percentile:
+  param:
+    C: 4.955833741357145
+    coef0: 209.91142727825584
+    degree: 5
+    gamma: 954.55807973108
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+x_displacement_99th_percentile:
+  param:
+    C: 46.531870455105654
+    coef0: 913.2616350777225
+    degree: 4
+    gamma: 802.313506400828
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+x_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 0.2735029000718632
+    coef0: 46.436292119696795
+    degree: 3
+    gamma: 136.89365491633487
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8533333333333334
+x_displacement_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 767.4072349738673
+    coef0: 112.49014727744596
+    degree: 1
+    gamma: 811.0465417049505
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+x_displacement_kurtosis:
+  param:
+    C: 916.6089148890193
+    coef0: 578.0861495645781
+    degree: 5
+    gamma: 597.8524649060961
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+x_displacement_max:
+  param:
+    C: 208.4307163373188
+    coef0: 875.746218399397
+    degree: 3
+    gamma: 272.20305961891296
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+x_displacement_mean:
+  param:
+    C: 0.0959790705297835
+    coef0: 626.6611995191029
+    degree: 3
+    gamma: 996.2050629658988
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+x_displacement_median:
+  param:
+    C: 449.1311336678214
+    coef0: 10.206078840936083
+    degree: 4
+    gamma: 317.6137508033375
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+x_displacement_no_abs_1st_percentile:
+  param:
+    C: 772.9244057393371
+    coef0: 76.70122874568949
+    degree: 2
+    gamma: 611.0020482832774
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+x_displacement_no_abs_99th_percentile:
+  param:
+    C: 470.66010591048376
+    coef0: 89.47734713874488
+    degree: 5
+    gamma: 745.0555109063837
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+x_displacement_no_abs_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 19.532922297843072
+    coef0: 18.54053491660372
+    degree: 5
+    gamma: 186.5583204331591
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8133333333333334
+x_displacement_no_abs_kurtosis:
+  param:
+    C: 239.36132551828095
+    coef0: 674.3942319471583
+    degree: 5
+    gamma: 562.1852254680815
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+x_displacement_no_abs_max:
+  param:
+    C: 834.6929337152039
+    coef0: 765.2515003815892
+    degree: 4
+    gamma: 999.5236782247096
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+x_displacement_no_abs_mean:
+  param:
+    C: 691.140581242534
+    coef0: 76.49920600985827
+    degree: 3
+    gamma: 406.9436987675811
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+x_displacement_no_abs_median:
+  param:
+    C: 873.6916215703246
+    coef0: 959.6900020564145
+    degree: 4
+    gamma: 760.2107497377231
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5066666666666667
+x_displacement_no_abs_min:
+  param:
+    C: 417.5341309082959
+    coef0: 156.43954499902677
+    degree: 3
+    gamma: 849.1833109664836
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+x_displacement_no_abs_skewness:
+  param:
+    C: 40.23069594969586
+    coef0: 215.97238385263793
+    degree: 5
+    gamma: 721.8456596813362
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+x_displacement_no_abs_standard_deviation:
+  param:
+    C: 770.9731196626625
+    coef0: 43.72682543182559
+    degree: 4
+    gamma: 593.7521411000134
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+x_displacement_no_abs_variance:
+  param:
+    C: 322.41091449963085
+    coef0: 565.3645510732407
+    degree: 5
+    gamma: 707.0090633727018
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+x_displacement_skewness:
+  param:
+    C: 921.7603969612512
+    coef0: 55.51396779684882
+    degree: 1
+    gamma: 355.2829632133035
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+x_displacement_standard_deviation:
+  param:
+    C: 297.0294442274914
+    coef0: 194.07028052646675
+    degree: 3
+    gamma: 18.458958455110004
+    kernel: rbf
+    random_state: 42
+  score: 0.7066666666666667
+x_displacement_variance:
+  param:
+    C: 531.4514649656171
+    coef0: 575.0568949614245
+    degree: 5
+    gamma: 757.29809192102
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+x_kurtosis:
+  param:
+    C: 290.3045087418032
+    coef0: 880.2103134943028
+    degree: 1
+    gamma: 416.5114613397921
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5866666666666667
+x_max:
+  param:
+    C: 802.6748206386537
+    coef0: 379.97197830169966
+    degree: 3
+    gamma: 609.6160402836622
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+x_mean:
+  param:
+    C: 851.2662463061664
+    coef0: 53.97801560571132
+    degree: 2
+    gamma: 181.61261236198686
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+x_median:
+  param:
+    C: 2.0863690445565113
+    coef0: 78.81884694657694
+    degree: 5
+    gamma: 921.4235406989299
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+x_min:
+  param:
+    C: 542.8406539415143
+    coef0: 93.96820776790256
+    degree: 4
+    gamma: 499.7729788942959
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+x_skewness:
+  param:
+    C: 766.9549607349248
+    coef0: 4.403465311792345
+    degree: 3
+    gamma: 56.1169830491139
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+x_standard_deviation:
+  param:
+    C: 727.1303852014371
+    coef0: 46.18729987257129
+    degree: 2
+    gamma: 452.8153263379428
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+x_variance:
+  param:
+    C: 733.383386273799
+    coef0: 58.64321506175962
+    degree: 1
+    gamma: 780.5551875081051
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+x_velocity_99th_percentile:
+  param:
+    C: 643.8648637244221
+    coef0: 96.37515025378917
+    degree: 2
+    gamma: 792.1712424660118
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+x_velocity_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 0.15343697284078672
+    coef0: 800.961691247727
+    degree: 3
+    gamma: 308.92652501702224
+    kernel: sigmoid
+    random_state: 42
+  score: 0.9066666666666666
+x_velocity_kurtosis:
+  param:
+    C: 91.80875894053975
+    coef0: 738.693996237173
+    degree: 4
+    gamma: 375.66888021228476
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+x_velocity_max:
+  param:
+    C: 667.0446215116954
+    coef0: 303.6260600223048
+    degree: 3
+    gamma: 705.122080056684
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+x_velocity_mean:
+  param:
+    C: 235.37327025220824
+    coef0: 154.27538175089958
+    degree: 1
+    gamma: 942.9136161373608
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+x_velocity_median:
+  param:
+    C: 991.603118513485
+    coef0: 986.8654617197192
+    degree: 5
+    gamma: 407.2463759010453
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+x_velocity_min:
+  param:
+    C: 61.46224237830384
+    coef0: 24.551530665561906
+    degree: 4
+    gamma: 849.7805339641305
+    kernel: sigmoid
+    random_state: 42
+  score: 0.56
+x_velocity_no_abs_1st_percentile:
+  param:
+    C: 267.4905099332932
+    coef0: 156.5899251077301
+    degree: 3
+    gamma: 829.3788698479244
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+x_velocity_no_abs_99th_percentile:
+  param:
+    C: 830.5642352375143
+    coef0: 38.17509806688928
+    degree: 2
+    gamma: 901.351919040754
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+x_velocity_no_abs_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 390.1221422380716
+    coef0: 261.5072735338745
+    degree: 3
+    gamma: 745.4901902236525
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+x_velocity_no_abs_kurtosis:
+  param:
+    C: 578.1929611458602
+    coef0: 905.0809720687758
+    degree: 1
+    gamma: 837.2544603347701
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+x_velocity_no_abs_max:
+  param:
+    C: 373.16964476774746
+    coef0: 148.19896701438427
+    degree: 3
+    gamma: 996.561570346571
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+x_velocity_no_abs_mean:
+  param:
+    C: 0.6587275801357109
+    coef0: 676.2562576187802
+    degree: 3
+    gamma: 180.96534291046873
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7866666666666666
+x_velocity_no_abs_median:
+  param:
+    C: 349.3680752516594
+    coef0: 996.8078295695378
+    degree: 5
+    gamma: 8.891795987245173
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5066666666666667
+x_velocity_no_abs_min:
+  param:
+    C: 486.46596519620584
+    coef0: 187.9843420635534
+    degree: 5
+    gamma: 914.8400218398615
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+x_velocity_no_abs_skewness:
+  param:
+    C: 108.18347162622284
+    coef0: 182.6346671679041
+    degree: 4
+    gamma: 954.2849751762105
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+x_velocity_no_abs_standard_deviation:
+  param:
+    C: 55.55321615096805
+    coef0: 85.83281855336884
+    degree: 3
+    gamma: 816.3721576593321
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7733333333333333
+x_velocity_no_abs_variance:
+  param:
+    C: 915.9665205453548
+    coef0: 9.909601927012432
+    degree: 4
+    gamma: 958.304988606748
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+x_velocity_skewness:
+  param:
+    C: 154.2541477887272
+    coef0: 717.3067655689752
+    degree: 3
+    gamma: 247.06958428356452
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+x_velocity_standard_deviation:
+  param:
+    C: 642.6031053751648
+    coef0: 849.8416085142148
+    degree: 1
+    gamma: 970.1897272408568
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+x_velocity_variance:
+  param:
+    C: 38.050375832460354
+    coef0: 113.07013386149029
+    degree: 4
+    gamma: 461.73841316952945
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+y_1st_percentile:
+  param:
+    C: 190.12052983589174
+    coef0: 43.89581619627874
+    degree: 3
+    gamma: 0.06280341353844854
+    kernel: rbf
+    random_state: 42
+  score: 0.7466666666666667
+y_99th_percentile:
+  param:
+    C: 910.5648714204162
+    coef0: 89.67281704609044
+    degree: 1
+    gamma: 850.3971531720132
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8133333333333334
+y_displacement_99th_percentile:
+  param:
+    C: 612.2236182619198
+    coef0: 222.71771654982433
+    degree: 3
+    gamma: 980.3512739876234
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+y_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 0.3555485711244444
+    coef0: 745.661023425804
+    degree: 5
+    gamma: 768.6622475231104
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+y_displacement_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 783.4810696592432
+    coef0: 218.95681277518594
+    degree: 4
+    gamma: 973.7037162523206
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+y_displacement_kurtosis:
+  param:
+    C: 518.2496171723044
+    coef0: 276.05651349496566
+    degree: 3
+    gamma: 506.282868442847
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+y_displacement_max:
+  param:
+    C: 383.3252752892691
+    coef0: 777.343793778344
+    degree: 2
+    gamma: 669.5627309360092
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+y_displacement_mean:
+  param:
+    C: 912.9306269307975
+    coef0: 375.9874327042543
+    degree: 1
+    gamma: 540.8395952426083
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+y_displacement_median:
+  param:
+    C: 864.457878237102
+    coef0: 735.4680729289691
+    degree: 1
+    gamma: 910.8635095914973
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5866666666666667
+y_displacement_no_abs_1st_percentile:
+  param:
+    C: 732.9426847108527
+    coef0: 559.0466236356903
+    degree: 5
+    gamma: 803.4985188482839
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6533333333333333
+y_displacement_no_abs_99th_percentile:
+  param:
+    C: 4.035366883874405
+    coef0: 34.52597031704161
+    degree: 2
+    gamma: 64.12359586353473
+    kernel: rbf
+    random_state: 42
+  score: 0.7066666666666667
+y_displacement_no_abs_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 68.67211598316653
+    coef0: 899.8173567812914
+    degree: 3
+    gamma: 217.93553879014354
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+y_displacement_no_abs_kurtosis:
+  param:
+    C: 814.2776615098251
+    coef0: 465.2563789336434
+    degree: 3
+    gamma: 837.8400498243658
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7466666666666667
+y_displacement_no_abs_max:
+  param:
+    C: 299.6005190935963
+    coef0: 583.7066813514646
+    degree: 3
+    gamma: 603.5903836347201
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8
+y_displacement_no_abs_mean:
+  param:
+    C: 931.8508698177078
+    coef0: 379.44573671187317
+    degree: 3
+    gamma: 484.86428633543414
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+y_displacement_no_abs_min:
+  param:
+    C: 0.5920562932838251
+    coef0: 142.73983847171948
+    degree: 2
+    gamma: 736.7631126480621
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8266666666666667
+y_displacement_no_abs_skewness:
+  param:
+    C: 626.1141200693756
+    coef0: 825.5166253805938
+    degree: 5
+    gamma: 345.3535402905503
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+y_displacement_no_abs_standard_deviation:
+  param:
+    C: 70.1475453967279
+    coef0: 249.6556230786008
+    degree: 3
+    gamma: 700.9990080668837
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6666666666666666
+y_displacement_no_abs_variance:
+  param:
+    C: 143.31056526497656
+    coef0: 39.116657310060994
+    degree: 2
+    gamma: 506.4673682145507
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+y_displacement_skewness:
+  param:
+    C: 445.55304657698076
+    coef0: 545.5849211459059
+    degree: 2
+    gamma: 979.7894582081323
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8133333333333334
+y_displacement_standard_deviation:
+  param:
+    C: 237.34861486903088
+    coef0: 407.1623104273635
+    degree: 3
+    gamma: 963.9960184995298
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+y_displacement_variance:
+  param:
+    C: 121.71609777293249
+    coef0: 262.2650892030175
+    degree: 5
+    gamma: 198.0881674678974
+    kernel: rbf
+    random_state: 42
+  score: 0.6
+y_kurtosis:
+  param:
+    C: 787.5082358842106
+    coef0: 354.77590873416545
+    degree: 5
+    gamma: 953.6551712986555
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
+y_max:
+  param:
+    C: 279.7039339807548
+    coef0: 376.1848055035862
+    degree: 3
+    gamma: 232.2240187378474
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+y_mean:
+  param:
+    C: 146.99115682744554
+    coef0: 114.0438749827466
+    degree: 5
+    gamma: 5.160832781666049
+    kernel: rbf
+    random_state: 42
+  score: 0.76
+y_median:
+  param:
+    C: 0.135217371180574
+    coef0: 448.58798749182006
+    degree: 1
+    gamma: 19.198484367686298
+    kernel: rbf
+    random_state: 42
+  score: 0.7733333333333333
+y_min:
+  param:
+    C: 734.7707209921759
+    coef0: 116.74169847775848
+    degree: 1
+    gamma: 851.415977700909
+    kernel: sigmoid
+    random_state: 42
+  score: 0.84
+y_skewness:
+  param:
+    C: 993.1420504143531
+    coef0: 260.16861067767076
+    degree: 3
+    gamma: 213.8713838102344
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6933333333333334
+y_standard_deviation:
+  param:
+    C: 272.83567217322553
+    coef0: 37.908887875374226
+    degree: 5
+    gamma: 968.7392554908653
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+y_variance:
+  param:
+    C: 577.4413973984425
+    coef0: 18.531182024330143
+    degree: 1
+    gamma: 950.7671149939009
+    kernel: sigmoid
+    random_state: 42
+  score: 0.76
+y_velocity_99th_percentile:
+  param:
+    C: 419.16604946671816
+    coef0: 335.57969959969705
+    degree: 3
+    gamma: 897.0288061016803
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+y_velocity_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 854.6617582762802
+    coef0: 174.61943470112882
+    degree: 1
+    gamma: 581.0412354212708
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7333333333333333
+y_velocity_kurtosis:
+  param:
+    C: 108.78821961625225
+    coef0: 155.26195078274205
+    degree: 1
+    gamma: 195.7747795197969
+    kernel: rbf
+    random_state: 42
+  score: 0.6933333333333334
+y_velocity_max:
+  param:
+    C: 788.2078369720929
+    coef0: 979.7035584484404
+    degree: 4
+    gamma: 950.6249587569739
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+y_velocity_mean:
+  param:
+    C: 65.85825441048183
+    coef0: 250.6359231570303
+    degree: 3
+    gamma: 379.1862441683381
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+y_velocity_median:
+  param:
+    C: 949.8079160714195
+    coef0: 51.89073154294311
+    degree: 1
+    gamma: 555.1555042518225
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6266666666666667
+y_velocity_min:
+  param:
+    C: 445.00091529119237
+    coef0: 100.38861672081113
+    degree: 4
+    gamma: 268.0394796507536
+    kernel: sigmoid
+    random_state: 42
+  score: 0.56
+y_velocity_no_abs_1st_percentile:
+  param:
+    C: 224.08985044716098
+    coef0: 319.4109529028804
+    degree: 3
+    gamma: 391.6106947062757
+    kernel: sigmoid
+    random_state: 42
+  score: 0.72
+y_velocity_no_abs_99th_percentile:
+  param:
+    C: 20.966758086188737
+    coef0: 614.6803006192591
+    degree: 2
+    gamma: 15.707161063368062
+    kernel: rbf
+    random_state: 42
+  score: 0.6666666666666666
+y_velocity_no_abs_displacement_between_99th_percentile_and_1st_percentile:
+  param:
+    C: 935.4317184886474
+    coef0: 22.86959597334139
+    degree: 3
+    gamma: 688.3362371610899
+    kernel: sigmoid
+    random_state: 42
+  score: 0.7066666666666667
+y_velocity_no_abs_kurtosis:
+  param:
+    C: 780.3528341040334
+    coef0: 429.3360044038432
+    degree: 3
+    gamma: 630.8988237692668
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+y_velocity_no_abs_max:
+  param:
+    C: 554.9161046028272
+    coef0: 110.05410572869586
+    degree: 4
+    gamma: 26.038244779768412
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5333333333333333
+y_velocity_no_abs_mean:
+  param:
+    C: 946.624024223589
+    coef0: 565.8134523568514
+    degree: 5
+    gamma: 636.6106822415319
+    kernel: sigmoid
+    random_state: 42
+  score: 0.6133333333333333
+y_velocity_no_abs_min:
+  param:
+    C: 467.08277525899297
+    coef0: 721.8241554547235
+    degree: 5
+    gamma: 297.2408078649777
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+y_velocity_no_abs_skewness:
+  param:
+    C: 137.76616380369916
+    coef0: 230.80986569409927
+    degree: 5
+    gamma: 25.81271565490571
+    kernel: rbf
+    random_state: 42
+  score: 0.7066666666666667
+y_velocity_no_abs_standard_deviation:
+  param:
+    C: 494.04280907977284
+    coef0: 2.958117807589905
+    degree: 2
+    gamma: 995.0245663637335
+    kernel: sigmoid
+    random_state: 42
+  score: 0.64
+y_velocity_no_abs_variance:
+  param:
+    C: 978.7298422260656
+    coef0: 253.64530316298692
+    degree: 5
+    gamma: 697.1061515546146
+    kernel: sigmoid
+    random_state: 42
+  score: 0.68
+y_velocity_skewness:
+  param:
+    C: 127.01113955968917
+    coef0: 166.05220952430494
+    degree: 1
+    gamma: 162.18957801906086
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5866666666666667
+y_velocity_standard_deviation:
+  param:
+    C: 470.468891519392
+    coef0: 10.151446266528447
+    degree: 1
+    gamma: 890.1747963141869
+    kernel: sigmoid
+    random_state: 42
+  score: 0.5866666666666667
+y_velocity_variance:
+  param:
+    C: 898.5800515121307
+    coef0: 322.393415001314
+    degree: 5
+    gamma: 86.8436967587134
+    kernel: sigmoid
+    random_state: 42
+  score: 0.8133333333333334

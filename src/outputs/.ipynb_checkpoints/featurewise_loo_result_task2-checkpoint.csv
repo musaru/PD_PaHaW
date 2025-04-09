@@ -1,0 +1,9 @@
+,feature,score,param
+0,x_max,0.64,"{'C': 981.4483606235999, 'kernel': 'rbf', 'gamma': 0.21085389630267182, 'degree': 1, 'coef0': 863.6343381215612, 'random_state': 42}"
+1,x_min,0.6533333333333333,"{'C': 293.0846633034747, 'kernel': 'rbf', 'gamma': 209.31122870595047, 'degree': 1, 'coef0': 882.32593950455, 'random_state': 42}"
+2,x_mean,0.6933333333333334,"{'C': 167.75424011820382, 'kernel': 'sigmoid', 'gamma': 731.6401388801213, 'degree': 2, 'coef0': 380.3235024576526, 'random_state': 42}"
+3,x_median,0.6933333333333334,"{'C': 117.15902940930097, 'kernel': 'sigmoid', 'gamma': 902.4779082744567, 'degree': 5, 'coef0': 387.0299995651644, 'random_state': 42}"
+4,x_variance,0.6266666666666667,"{'C': 999.1791249040615, 'kernel': 'rbf', 'gamma': 5.540045616561365, 'degree': 2, 'coef0': 547.839287378929, 'random_state': 42}"
+5,x_standard_deviation,0.6533333333333333,"{'C': 77.92994405470374, 'kernel': 'rbf', 'gamma': 15.856209698109694, 'degree': 3, 'coef0': 79.3254040884791, 'random_state': 42}"
+6,x_1st_percentile,0.72,"{'C': 706.15816500982, 'kernel': 'sigmoid', 'gamma': 971.1183038989232, 'degree': 3, 'coef0': 215.42760749343563, 'random_state': 42}"
+7,x_99th_percentile,0.7066666666666667,"{'C': 291.92913076480176, 'kernel': 'sigmoid', 'gamma': 982.0751739229968, 'degree': 5, 'coef0': 278.9971563978702, 'random_state': 42}"

@@ -1,0 +1,36 @@
+x_max:
+  param:
+    C: 589.5587311952656
+    coef0: 411.48349090804004
+    degree: 5
+    gamma: 0.22566987868950505
+    kernel: rbf
+    random_state: 42
+  score: 0.64
+x_mean:
+  param:
+    C: 0.5655978003977253
+    coef0: 532.6045286610337
+    degree: 5
+    gamma: 30.019041285082274
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+x_median:
+  param:
+    C: 53.444470339541475
+    coef0: 604.4051553448774
+    degree: 4
+    gamma: 30.78358042527297
+    kernel: rbf
+    random_state: 42
+  score: 0.68
+x_min:
+  param:
+    C: 145.12700698151235
+    coef0: 609.6894223356835
+    degree: 1
+    gamma: 245.41429445455356
+    kernel: rbf
+    random_state: 42
+  score: 0.6533333333333333
