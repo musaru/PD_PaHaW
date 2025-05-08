@@ -1,4 +1,4 @@
-# GmTC
+# PD PaHaW
 # Parkinson Disease Detection Based on In-air Dynamics Feature Extraction and Selection UsingMachine Learning
 
 If you used this resource please cited the following paper  "Parkinson Disease Detection Based on In-air
